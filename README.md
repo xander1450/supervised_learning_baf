@@ -7,7 +7,8 @@ returns prediction + confidence score
 can be continuously retrained
 can be used anywhere via API, batch job, or direct Python call
 The cleanest way to do this from scratch is:
-1) Decide the core contract first
+
+Decide the core contract first
 Your model service should always accept this:
 Input
 
