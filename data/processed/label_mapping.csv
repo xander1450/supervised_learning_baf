@@ -1,0 +1,69 @@
+issue_type,sub_issue,raw_label,label,label_strategy,training_example_count
+Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,raw_label,188
+Timeout,General,Timeout > General,Timeout > General,raw_label,119
+Orphan,,Orphan,Orphan,raw_label,74
+Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,raw_label,56
+SP Issue,Payment Issue,SP Issue > Payment Issue,SP Issue > Payment Issue,raw_label,47
+Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,Custom Field > Missing Custom Fields,raw_label,45
+Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,raw_label,42
+Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,Seatmap > Current Slot Unavailable,raw_label,33
+SP Issue,Booking Failed,SP Issue > Booking Failed,SP Issue > Booking Failed,raw_label,24
+Inventory Issue,Unknown,Inventory Issue > Unknown,Inventory Issue > Unknown,raw_label,21
+Set Up Issue,Release Period,Set Up Issue > Release Period,Set Up Issue > Release Period,raw_label,20
+SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,SP Issue > Booking Not Confirmed,raw_label,16
+SP Issue,Unknown,SP Issue > Unknown,SP Issue > Unknown,raw_label,14
+Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,Seatmap > Single Seat Issue,raw_label,13
+Seatmap,Timeout,Seatmap > Timeout,Seatmap > Timeout,raw_label,13
+Seatmap,Booking Delayed,Seatmap > Booking Delayed,Seatmap > Booking Delayed,raw_label,12
+Seatmap,Seats UA,Seatmap > Seats UA,Seatmap > Seats UA,raw_label,11
+SP Issue,Product Unavailable,SP Issue > Product Unavailable,SP Issue > Product Unavailable,raw_label,10
+Credentials,Not updated on AWS,Credentials > Not updated on AWS,Credentials > Not updated on AWS,raw_label,9
+Customer Issue,Invalid Format,Customer Issue > Invalid Format,Customer Issue > Invalid Format,raw_label,9
+Seatmap,Book Manually,Seatmap > Book Manually,Seatmap > Book Manually,raw_label,9
+Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,Booking Incomplete > Tickets not sent,raw_label,8
+Seatmap,Unknown,Seatmap > Unknown,Seatmap > Unknown,raw_label,8
+Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,raw_label,7
+Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,Set Up Issue > Pax Limit Issue,raw_label,7
+Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,Custom Field > Missing Dropdown Values,raw_label,6
+Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,raw_label,6
+Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,Set Up Issue > Missing Pax Type,raw_label,6
+SP Issue,Config Issue,SP Issue > Config Issue,SP Issue > Config Issue,raw_label,5
+Customer Issue,Inaccurate info,Customer Issue > Inaccurate info,Customer Issue > Inaccurate info,raw_label,4
+Inventory Issue,Pending Confirmation,Inventory Issue > Pending Confirmation,Inventory Issue > Pending Confirmation,raw_label,4
+Set Up Issue,Product Code Issue,Set Up Issue > Product Code Issue,Set Up Issue > Product Code Issue,raw_label,4
+Booking Failed,Tickets not sent,Booking Failed > Tickets not sent,Booking Failed > Tickets not sent,raw_label,3
+Booking Incomplete,Failed to fetch tickets,Booking Incomplete > Failed to fetch tickets,Booking Incomplete > Failed to fetch tickets,raw_label,3
+Custom Field,Format Issue,Custom Field > Format Issue,Custom Field > Format Issue,raw_label,3
+Custom Field,Unknown,Custom Field > Unknown,Custom Field > Unknown,raw_label,3
+Customer Issue,Book Manually,Customer Issue > Book Manually,Customer Issue > Book Manually,raw_label,3
+Inventory Issue,Dates Sold out,Inventory Issue > Dates Sold out,Inventory Issue > Dates Sold out,raw_label,3
+Payment Issue,General,Payment Issue > General,Payment Issue > General,raw_label,3
+Product Code,Codes to be updated,Product Code > Codes to be updated,Product Code > Codes to be updated,raw_label,3
+SP Issue,ID disabled,SP Issue > ID disabled,SP Issue > ID disabled,raw_label,3
+SP Issue,Product Code Issue,SP Issue > Product Code Issue,SP Issue > Product Code Issue,raw_label,3
+Set Up Issue,Invalid Product ID,Set Up Issue > Invalid Product ID,Set Up Issue > Invalid Product ID,raw_label,3
+Set Up Issue,Mandatory Logic Issue,Set Up Issue > Mandatory Logic Issue,Set Up Issue > Mandatory Logic Issue,raw_label,3
+Set Up Issue,Product ID Invalid,Set Up Issue > Product ID Invalid,Set Up Issue > Product ID Invalid,raw_label,3
+Set Up Issue,Wrong Pax Types are added,Set Up Issue > Wrong Pax Types are added,Set Up Issue > Wrong Pax Types are added,raw_label,3
+Tech Issue,Config Issue,Tech Issue > Config Issue,Tech Issue > Config Issue,raw_label,3
+Timeout,Unknown,Timeout > Unknown,Timeout > Unknown,raw_label,3
+Booking Failed,Stale Inventory,Booking Failed > Stale Inventory,Booking Failed,issue_type_fallback,2
+Customer Issue,Char Limit,Customer Issue > Char Limit,Customer Issue,issue_type_fallback,2
+Timeout,Rate Limit Issue,Timeout > Rate Limit Issue,other,other_fallback,2
+Booking Failed,Pending pax Confirmation,Booking Failed > Pending pax Confirmation,Booking Failed,issue_type_fallback,1
+Booking Incomplete,Failed to send tickets,Booking Incomplete > Failed to send tickets,other,other_fallback,1
+Booking Incomplete,Unknown,Booking Incomplete > Unknown,other,other_fallback,1
+Custom Field,Custom Field Values mismatch,Custom Field > Custom Field Values mismatch,other,other_fallback,1
+Customer Issue,Missing Dropdown Values,Customer Issue > Missing Dropdown Values,Customer Issue,issue_type_fallback,1
+Inventory Issue,Future Dated,Inventory Issue > Future Dated,Inventory Issue,issue_type_fallback,1
+Inventory Issue,Out of PP Tickets,Inventory Issue > Out of PP Tickets,Inventory Issue,issue_type_fallback,1
+Inventory Issue,Stale Inventory,Inventory Issue > Stale Inventory,Inventory Issue,issue_type_fallback,1
+Product Code,Unknown,Product Code > Unknown,other,other_fallback,1
+SP Issue,Auto Reschedule Failed,SP Issue > Auto Reschedule Failed,SP Issue,issue_type_fallback,1
+SP Issue,Pending Confirmation,SP Issue > Pending Confirmation,SP Issue,issue_type_fallback,1
+SP Issue,Stale Inventory,SP Issue > Stale Inventory,SP Issue,issue_type_fallback,1
+Seatmap,Inventory Issue,Seatmap > Inventory Issue,other,other_fallback,1
+Seatmap,Seat Validation Issue,Seatmap > Seat Validation Issue,other,other_fallback,1
+Set Up Issue,Max Pax Mismatch,Set Up Issue > Max Pax Mismatch,other,other_fallback,1
+Set Up Issue,Schedule Type Mismatch,Set Up Issue > Schedule Type Mismatch,other,other_fallback,1
+Tech Issue,LIC,Tech Issue > LIC,other,other_fallback,1

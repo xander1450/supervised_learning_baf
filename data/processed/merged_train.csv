@@ -1,0 +1,79 @@
+id,text,label
+train-001,I was charged twice for the same purchase,billing
+train-002,Please refund the duplicate payment on my card,billing
+train-003,My invoice amount is higher than what I approved,billing
+train-004,I need help with a billing error on my subscription,billing
+train-005,The payment went through but the receipt is missing,billing
+train-006,Why was I billed again after cancelling,billing
+train-007,There is an unauthorized charge on my account,billing
+train-008,Can you reverse the extra transaction from yesterday,billing
+train-009,I need a GST invoice for the amount I paid,billing
+train-010,The discount code was ignored and I paid full price,billing
+train-011,I got debited but the order did not complete,billing
+train-012,Please send the final invoice for accounting,billing
+train-013,The refund has not shown up on my credit card,billing
+train-014,I was charged in the wrong currency,billing
+train-015,There is tax added twice on this payment,billing
+train-016,The payment page failed but money was deducted,billing
+train-017,Please correct the invoice name and billing address,billing
+train-018,The wallet credit was not applied at checkout,billing
+train-019,I need a copy of the receipt for reimbursement,billing
+train-020,My annual plan renewed unexpectedly,billing
+train-021,The card was charged even though the trial should be free,billing
+train-022,I cancelled last week but got billed again today,billing
+train-023,There is a payment mismatch between the receipt and bank statement,billing
+train-024,My company needs a revised invoice with VAT details,billing
+train-025,The app crashes every time I try to upload a file,bug
+train-026,Login fails with a blank screen after entering my password,bug
+train-027,The dashboard keeps loading forever on Chrome,bug
+train-028,Search results disappear when I apply a filter,bug
+train-029,The export button does nothing when I click it,bug
+train-030,I get a 500 error when opening the reports page,bug
+train-031,Notifications are not showing up in the mobile app,bug
+train-032,The file preview is broken for PDF documents,bug
+train-033,The page freezes when I open settings,bug
+train-034,I cannot reset my password because the link loops back,bug
+train-035,The data table is rendering duplicate rows,bug
+train-036,The checkout form is stuck on the final step,bug
+train-037,The Android app closes immediately after launch,bug
+train-038,The API responds with a timeout on save,bug
+train-039,Attachments fail to download from the conversation screen,bug
+train-040,The image upload spinner never stops,bug
+train-041,I see a permission error even though I am an admin,bug
+train-042,The filters reset automatically after every refresh,bug
+train-043,The profile page shows stale data after update,bug
+train-044,The delete action succeeds but the item stays visible,bug
+train-045,The date picker selects the wrong timezone,bug
+train-046,The website layout breaks on Safari,bug
+train-047,The session expires too quickly while I am typing,bug
+train-048,The app shows a network error despite stable internet,bug
+train-049,Please add dark mode to the dashboard,feature_request
+train-050,Can you support export to PDF for reports,feature_request
+train-051,We need bulk edit for tags and categories,feature_request
+train-052,It would help to have Slack notifications for approvals,feature_request
+train-053,Please add role based access for the admin panel,feature_request
+train-054,I want a keyboard shortcut for quick search,feature_request
+train-055,Can you add multi language support in the app,feature_request
+train-056,Please support scheduled reports every Monday,feature_request
+train-057,It would be great to pin favorite dashboards,feature_request
+train-058,We need an audit log for changes made by users,feature_request
+train-059,Please add an option to duplicate templates,feature_request
+train-060,Can you support SSO with Okta,feature_request
+train-061,Please allow CSV import for contacts,feature_request
+train-062,Add the ability to save filter presets,feature_request
+train-063,It would be useful to compare reports side by side,feature_request
+train-064,Please add webhooks for order status updates,feature_request
+train-065,Can you support custom fields on the ticket form,feature_request
+train-066,We want comments on shared dashboards,feature_request
+train-067,Please add archive instead of permanent delete,feature_request
+train-068,A mobile widget for quick actions would be helpful,feature_request
+train-069,Can you add an API endpoint for analytics exports,feature_request
+train-070,Please allow custom branding on generated reports,feature_request
+train-071,It would help to have duplicate detection while importing,feature_request
+train-072,We need a public share link with expiry controls,feature_request
+new-001,Please refund the second charge from this morning,billing
+new-002,The iPhone app crashes when I open notifications,bug
+new-003,Please add recurring exports to Google Sheets,feature_request
+new-004,I need a corrected invoice with the company GST number,billing
+new-005,The save button hangs and the page never finishes loading,bug
+new-006,Please add approval workflows for content publishing,feature_request

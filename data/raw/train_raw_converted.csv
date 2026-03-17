@@ -1,0 +1,924 @@
+id,text,label,issue_type,sub_issue,raw_label,anchor_source,source_row_id
+sheet1_r003_parent,5003,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,3
+sheet1_r003_baby,Insufficient stocks available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,3
+sheet1_r003_combined,5003 || Insufficient stocks available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,3
+sheet1_r004_parent,Access is denied,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,4
+sheet1_r005_parent,B0001,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,5
+sheet1_r005_baby,No availability on this date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,5
+sheet1_r005_combined,B0001 || No availability on this date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,5
+sheet1_r006_parent,B0001,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,6
+sheet1_r006_baby,Not enough products left for this date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,6
+sheet1_r006_combined,B0001 || Not enough products left for this date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,6
+sheet1_r007_parent,B0001,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,7
+sheet1_r007_baby,Please select a different product,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,7
+sheet1_r007_combined,B0001 || Please select a different product,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,7
+sheet1_r008_parent,B0001,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,8
+sheet1_r008_baby,This product is not currently available.,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,8
+sheet1_r008_combined,B0001 || This product is not currently available.,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,8
+sheet1_r009_parent,B0004,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,9
+sheet1_r009_baby,OrderResource price does not exist,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,9
+sheet1_r009_combined,B0004 || OrderResource price does not exist,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,9
+sheet1_r010_parent,B0004,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,10
+sheet1_r010_baby,无效的资源价格,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,10
+sheet1_r010_combined,B0004 || 无效的资源价格,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,10
+sheet1_r011_parent,BOOKING_NOT_ENOUGH_ALLOTMENT,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,11
+sheet1_r012_parent,Booking exceeds available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,12
+sheet1_r013_parent,Booking failed bookingId,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,13
+sheet1_r013_baby,MISSING_FIELD: No inventory,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,13
+sheet1_r013_combined,Booking failed bookingId || MISSING_FIELD: No inventory,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,13
+sheet1_r014_parent,"Code\"" 409",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,14
+sheet1_r015_parent,Component key not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,15
+sheet1_r016_parent,Connection not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,16
+sheet1_r017_parent,Could not find slot for booking,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,17
+sheet1_r018_parent,Event Id is not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,18
+sheet1_r018_baby,Check inventory,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,18
+sheet1_r018_combined,Event Id is not found || Check inventory,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,18
+sheet1_r019_parent,"Exception message:\nnull""]",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,19
+sheet1_r019_baby,Arrival date is not available anymore,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,19
+sheet1_r019_combined,"Exception message:\nnull""] || Arrival date is not available anymore",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,19
+sheet1_r020_parent,"Exception message:\nnull""]",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,20
+sheet1_r020_baby,Component key not found for,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,20
+sheet1_r020_combined,"Exception message:\nnull""] || Component key not found for",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,20
+sheet1_r021_parent,"Exception message:\nnull""]",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,21
+sheet1_r021_baby,No timeslots for product type,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,21
+sheet1_r021_combined,"Exception message:\nnull""] || No timeslots for product type",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,21
+sheet1_r022_parent,External communication failed,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,22
+sheet1_r023_parent,Failed reservation,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,23
+sheet1_r023_baby,NO_AVAILABILITY,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,23
+sheet1_r023_combined,Failed reservation || NO_AVAILABILITY,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,23
+sheet1_r024_parent,GEN-UNPROCESSABLE,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,24
+sheet1_r024_baby,Arrival date is not available anymore. Please choose another one.,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,24
+sheet1_r024_combined,GEN-UNPROCESSABLE || Arrival date is not available anymore. Please choose another one.,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,24
+sheet1_r025_parent,INGRESSO-SM,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,25
+sheet1_r025_baby,input has become unavailable,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,25
+sheet1_r025_combined,INGRESSO-SM || input has become unavailable,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,25
+sheet1_r026_parent,INVALID_INSUFFICIENT_AVAILABILITY,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,26
+sheet1_r026_baby,Please select a different time slot,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,26
+sheet1_r026_combined,INVALID_INSUFFICIENT_AVAILABILITY || Please select a different time slot,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,26
+sheet1_r027_parent,INVALID_THIRDPARTY_BOOKING,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,27
+sheet1_r027_baby,Remotely closed,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,27
+sheet1_r027_combined,INVALID_THIRDPARTY_BOOKING || Remotely closed,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,27
+sheet1_r028_parent,INVALID_THIRDPARTY_RESERVATION,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,28
+sheet1_r028_baby,there is insufficient availability at third party,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,28
+sheet1_r028_combined,INVALID_THIRDPARTY_RESERVATION || there is insufficient availability at third party,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,28
+sheet1_r029_parent,Invalid session start time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,29
+sheet1_r029_baby,"errorCode\"":\""3\",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,29
+sheet1_r029_combined,"Invalid session start time || errorCode\"":\""3\",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,29
+sheet1_r030_parent,Inventory,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,30
+sheet1_r030_baby,no longer available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,30
+sheet1_r030_combined,Inventory || no longer available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,30
+sheet1_r031_parent,MISSING OR INCORRECT KEY,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,31
+sheet1_r031_baby,Component key not found for,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,31
+sheet1_r031_combined,MISSING OR INCORRECT KEY || Component key not found for,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,31
+sheet1_r032_parent,Mida Exception,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,32
+sheet1_r032_baby,Slot not found for start time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,32
+sheet1_r032_combined,Mida Exception || Slot not found for start time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,32
+sheet1_r033_parent,No Availability,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,33
+sheet1_r034_parent,No availability,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,34
+sheet1_r035_parent,No availability for date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,35
+sheet1_r036_parent,No available seats found for,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,36
+sheet1_r037_parent,No event found for,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,37
+sheet1_r038_parent,No events matched the requested date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,38
+sheet1_r039_parent,No matching sessions found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,39
+sheet1_r040_parent,No of tickets requested is more than the available seats present,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,40
+sheet1_r041_parent,No offer found for com.headout,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,41
+sheet1_r043_parent,No offers found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,43
+sheet1_r044_parent,No performance is available for the given,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,44
+sheet1_r045_parent,No planStartTimeID found for,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,45
+sheet1_r046_parent,No schedule availability found for date/time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,46
+sheet1_r047_parent,No ticket found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,47
+sheet1_r048_parent,No timeslot found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,48
+sheet1_r049_parent,No timeslots for product type,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,49
+sheet1_r049_baby,Arrival date is not available anymore. Please choose another one,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,49
+sheet1_r049_combined,No timeslots for product type || Arrival date is not available anymore. Please choose another one,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,49
+sheet1_r050_parent,No timeslots for product type,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,50
+sheet1_r050_baby,has a starting time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,50
+sheet1_r050_combined,No timeslots for product type || has a starting time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,50
+sheet1_r051_parent,Not enough availability to fulfill request,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,51
+sheet1_r051_baby,Requested inventory doesn't match what is available for date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,51
+sheet1_r051_combined,Not enough availability to fulfill request || Requested inventory doesn't match what is available for date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,51
+sheet1_r052_parent,Not enough available tickets,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,52
+sheet1_r053_parent,Not possible to book,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,53
+sheet1_r054_parent,Oferta Anticipada no existe o no está disponible,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,54
+sheet1_r055_parent,Please pick an alternative date or contact our reservations team,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,55
+sheet1_r055_baby,No availability in external system,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,55
+sheet1_r055_combined,Please pick an alternative date or contact our reservations team || No availability in external system,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,55
+sheet1_r056_parent,Price id for person,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,56
+sheet1_r056_baby,EUR_ADULT,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,56
+sheet1_r056_combined,Price id for person || EUR_ADULT,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,56
+sheet1_r057_parent,Price id for person,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,57
+sheet1_r057_baby,NON_EUR_ADULT,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,57
+sheet1_r057_combined,Price id for person || NON_EUR_ADULT,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,57
+sheet1_r058_parent,Reservation state could not be found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,58
+sheet1_r059_parent,SERVICE_UNAVAILABLE,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,59
+sheet1_r059_baby,Can't create,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,59
+sheet1_r059_combined,SERVICE_UNAVAILABLE || Can't create,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,59
+sheet1_r060_parent,SERVICE_UNAVAILABLE,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,60
+sheet1_r060_baby,Not enough availability found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,60
+sheet1_r060_combined,SERVICE_UNAVAILABLE || Not enough availability found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,60
+sheet1_r061_parent,Select was successful but did not create an order,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,61
+sheet1_r061_baby,Insufficient availability,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,61
+sheet1_r061_combined,Select was successful but did not create an order || Insufficient availability,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,61
+sheet1_r062_parent,Session for inventory time,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,62
+sheet1_r062_baby,not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,62
+sheet1_r062_combined,Session for inventory time || not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,62
+sheet1_r063_parent,Solutions not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,63
+sheet1_r064_parent,Some products are not available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,64
+sheet1_r065_parent,The event is not on sale,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,65
+sheet1_r066_parent,There are not enough seats available in this session,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,66
+sheet1_r067_parent,There is insufficient availability for this booking,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,67
+sheet1_r068_parent,There is insufficient availability to proceed with booking,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,68
+sheet1_r069_parent,There is insufficient capacity to create a basket with these reservations,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,69
+sheet1_r070_parent,There is not enough availability to make the booking,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,70
+sheet1_r071_parent,There's not enough Bus available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,71
+sheet1_r072_parent,Unable to create booking,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,72
+sheet1_r072_baby,Unable to satisfy resources,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,72
+sheet1_r072_combined,Unable to create booking || Unable to satisfy resources,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,72
+sheet1_r073_parent,backend availability not found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,73
+sheet1_r074_parent,cart.bookings.failed\,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,74
+sheet1_r074_baby,one or more items in your cart,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,74
+sheet1_r074_combined,cart.bookings.failed\ || one or more items in your cart,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,74
+sheet1_r075_parent,could not be found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,75
+sheet1_r075_baby,Start time ID,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,75
+sheet1_r075_combined,could not be found || Start time ID,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,75
+sheet1_r076_parent,date is sold out,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,76
+sheet1_r077_parent,does not exist or is not available for the date,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,77
+sheet1_r077_baby,The product,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,77
+sheet1_r077_combined,does not exist or is not available for the date || The product,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,77
+sheet1_r078_parent,error.no.available.event,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,78
+sheet1_r078_baby,no available event,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,78
+sheet1_r078_combined,error.no.available.event || no available event,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,78
+sheet1_r079_parent,error.no.available.slot,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,79
+sheet1_r080_parent,error.not.enough.available.inventory,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,80
+sheet1_r081_parent,"errorCode\"":\""21",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,81
+sheet1_r081_baby,not available Timeslot,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,81
+sheet1_r081_combined,"errorCode\"":\""21 || not available Timeslot",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,81
+sheet1_r082_parent,failed to get bundle child allotment,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,82
+sheet1_r083_parent,has already been used by the Partner,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,83
+sheet1_r084_parent,has not enough places,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,84
+sheet1_r085_parent,"httpStatusCode\"":400",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,85
+sheet1_r085_baby,"errorCode\"":625",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,85
+sheet1_r085_combined,"httpStatusCode\"":400 || errorCode\"":625",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,85
+sheet1_r086_parent,item.notAvailable,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,86
+sheet1_r086_baby,no longer available for the selected options,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,86
+sheet1_r086_combined,item.notAvailable || no longer available for the selected options,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,86
+sheet1_r087_parent,"jsonrpc\"" \""2.0",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,87
+sheet1_r087_baby,Not enough capacity,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,87
+sheet1_r087_combined,"jsonrpc\"" \""2.0 || Not enough capacity",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,87
+sheet1_r088_parent,"jsonrpc\"" \""2.0",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,88
+sheet1_r088_baby,Reservation creation failed for availability,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,88
+sheet1_r088_combined,"jsonrpc\"" \""2.0 || Reservation creation failed for availability",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,88
+sheet1_r089_parent,"jsonrpc\"" \""2.0",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,89
+sheet1_r089_baby,Vacancy isn't found,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,89
+sheet1_r089_combined,"jsonrpc\"" \""2.0 || Vacancy isn't found",Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,89
+sheet1_r090_parent,no available timeslots,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,90
+sheet1_r091_parent,not available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,91
+sheet1_r092_parent,not available for booking,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,92
+sheet1_r092_baby,more than the threshold,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,92
+sheet1_r092_combined,not available for booking || more than the threshold,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,92
+sheet1_r093_parent,not-enough-tickets,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,93
+sheet1_r094_parent,reste que 1 place pour cette repr,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,94
+sheet1_r095_parent,stock_not_available,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,95
+sheet1_r096_parent,ticket-not-exist-for-tourEvent,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,96
+sheet1_r097_parent,timeout,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,97
+sheet1_r097_baby,vacant,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,97
+sheet1_r097_combined,timeout || vacant,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,97
+sheet1_r098_parent,timeout,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,98
+sheet1_r098_baby,which is more than the threshold,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,baby,98
+sheet1_r098_combined,timeout || which is more than the threshold,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,combined,98
+sheet1_r099_parent,vacant,Inventory Issue > Current Slot Unavailable,Inventory Issue,Current Slot Unavailable,Inventory Issue > Current Slot Unavailable,parent,99
+sheet1_r101_parent,"Exception message:\nnull""]",Inventory Issue > Pending Confirmation,Inventory Issue,Pending Confirmation,Inventory Issue > Pending Confirmation,parent,101
+sheet1_r102_parent,"Exception message:\nnull""]",Inventory Issue > Pending Confirmation,Inventory Issue,Pending Confirmation,Inventory Issue > Pending Confirmation,parent,102
+sheet1_r102_baby,nnull,Inventory Issue > Pending Confirmation,Inventory Issue,Pending Confirmation,Inventory Issue > Pending Confirmation,baby,102
+sheet1_r102_combined,"Exception message:\nnull""] || nnull",Inventory Issue > Pending Confirmation,Inventory Issue,Pending Confirmation,Inventory Issue > Pending Confirmation,combined,102
+sheet1_r104_parent,Can't update current availability,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,104
+sheet1_r105_parent,INGRESSO-SM,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,105
+sheet1_r105_baby,Failed to fulfill,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,baby,105
+sheet1_r105_combined,INGRESSO-SM || Failed to fulfill,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,combined,105
+sheet1_r106_parent,INTERNAL_SYSTEM_FAILURE,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,106
+sheet1_r106_baby,inconsistent or invalid data or is missing,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,baby,106
+sheet1_r106_combined,INTERNAL_SYSTEM_FAILURE || inconsistent or invalid data or is missing,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,combined,106
+sheet1_r107_parent,S0000,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,107
+sheet1_r107_baby,productPriceCalendar.data is null or empty,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,baby,107
+sheet1_r107_combined,S0000 || productPriceCalendar.data is null or empty,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,combined,107
+sheet1_r108_parent,Unable to create booking,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,108
+sheet1_r109_parent,customer can't be blank,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,109
+sheet1_r110_parent,date ist ausverkauft,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,110
+sheet1_r111_parent,no está disponible para la fecha,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,111
+sheet1_r112_parent,Failed to get product price calendar,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,112
+sheet1_r112_baby,ProductID is not exist,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,baby,112
+sheet1_r112_combined,Failed to get product price calendar || ProductID is not exist,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,combined,112
+sheet1_r113_parent,INVALID_PRODUCT_TYPE,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,113
+sheet1_r113_baby,product type is not available for this season,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,baby,113
+sheet1_r113_combined,INVALID_PRODUCT_TYPE || product type is not available for this season,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,combined,113
+sheet1_r114_parent,Product for the cart item is not available anymore,Inventory Issue > Unknown,Inventory Issue,Unknown,Inventory Issue > Unknown,parent,114
+sheet1_r115_parent,No activities found for time,Inventory Issue > Dates Sold out,Inventory Issue,Dates Sold out,Inventory Issue > Dates Sold out,parent,115
+sheet1_r116_parent,Show not found for date,Inventory Issue > Dates Sold out,Inventory Issue,Dates Sold out,Inventory Issue > Dates Sold out,parent,116
+sheet1_r117_parent,The event day is not inside the opening calendar,Inventory Issue > Dates Sold out,Inventory Issue,Dates Sold out,Inventory Issue > Dates Sold out,parent,117
+sheet1_r118_parent,"Reservation not allowed, the day is disabled",Inventory Issue > Future Dated,Inventory Issue,Future Dated,Inventory Issue > Future Dated,parent,118
+sheet1_r119_parent,Error creating reservation,Inventory Issue > Stale Inventory,Inventory Issue,Stale Inventory,Inventory Issue > Stale Inventory,parent,119
+sheet1_r120_parent,Insufficient ticket inventory to satisfy the request where Paxtype,Inventory Issue > Out of PP Tickets,Inventory Issue,Out of PP Tickets,Inventory Issue > Out of PP Tickets,parent,120
+sheet1_r121_parent,Not enough guests,Inventory Issue > Min Pax Requirement Issue,Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,parent,121
+sheet1_r121_baby,ADULT,Inventory Issue > Min Pax Requirement Issue,Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,baby,121
+sheet1_r121_combined,Not enough guests || ADULT,Inventory Issue > Min Pax Requirement Issue,Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,combined,121
+sheet1_r122_parent,Not enough guests,Inventory Issue > Min Pax Requirement Issue,Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,parent,122
+sheet1_r122_baby,GENERAL,Inventory Issue > Min Pax Requirement Issue,Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,baby,122
+sheet1_r122_combined,Not enough guests || GENERAL,Inventory Issue > Min Pax Requirement Issue,Inventory Issue,Min Pax Requirement Issue,Inventory Issue > Min Pax Requirement Issue,combined,122
+sheet1_r124_parent,200,Timeout > General,Timeout,General,Timeout > General,parent,124
+sheet1_r124_baby,The booking is in progress,Timeout > General,Timeout,General,Timeout > General,baby,124
+sheet1_r124_combined,200 || The booking is in progress,Timeout > General,Timeout,General,Timeout > General,combined,124
+sheet1_r125_parent,404 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,125
+sheet1_r125_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,125
+sheet1_r125_combined,404 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,125
+sheet1_r126_parent,405 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,126
+sheet1_r126_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,126
+sheet1_r126_combined,405 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,126
+sheet1_r127_parent,406 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,127
+sheet1_r127_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,127
+sheet1_r127_combined,406 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,127
+sheet1_r128_parent,407 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,128
+sheet1_r128_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,128
+sheet1_r128_combined,407 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,128
+sheet1_r129_parent,408 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,129
+sheet1_r129_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,129
+sheet1_r129_combined,408 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,129
+sheet1_r130_parent,409 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,130
+sheet1_r130_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,130
+sheet1_r130_combined,409 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,130
+sheet1_r131_parent,410 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,131
+sheet1_r131_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,131
+sheet1_r131_combined,410 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,131
+sheet1_r132_parent,411 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,132
+sheet1_r132_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,132
+sheet1_r132_combined,411 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,132
+sheet1_r133_parent,412 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,133
+sheet1_r133_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,133
+sheet1_r133_combined,412 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,133
+sheet1_r134_parent,413 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,134
+sheet1_r134_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,134
+sheet1_r134_combined,413 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,134
+sheet1_r135_parent,414 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,135
+sheet1_r135_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,135
+sheet1_r135_combined,414 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,135
+sheet1_r136_parent,415 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,136
+sheet1_r136_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,136
+sheet1_r136_combined,415 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,136
+sheet1_r137_parent,416 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,137
+sheet1_r137_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,137
+sheet1_r137_combined,416 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,137
+sheet1_r138_parent,417 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,138
+sheet1_r138_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,138
+sheet1_r138_combined,417 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,138
+sheet1_r139_parent,418 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,139
+sheet1_r139_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,139
+sheet1_r139_combined,418 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,139
+sheet1_r140_parent,419 Not Found,Timeout > General,Timeout,General,Timeout > General,parent,140
+sheet1_r140_baby,resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,baby,140
+sheet1_r140_combined,419 Not Found || resources you are looking for doesn't exist,Timeout > General,Timeout,General,Timeout > General,combined,140
+sheet1_r141_parent,500: Internal server error,Timeout > General,Timeout,General,Timeout > General,parent,141
+sheet1_r142_parent,502 Bad Gateway,Timeout > General,Timeout,General,Timeout > General,parent,142
+sheet1_r143_parent,503 Service Temporarily Unavailable,Timeout > General,Timeout,General,Timeout > General,parent,143
+sheet1_r144_parent,503 Service Unavailable,Timeout > General,Timeout,General,Timeout > General,parent,144
+sheet1_r144_baby,INTERNAL,Timeout > General,Timeout,General,Timeout > General,baby,144
+sheet1_r144_combined,503 Service Unavailable || INTERNAL,Timeout > General,Timeout,General,Timeout > General,combined,144
+sheet1_r145_parent,504 Gateway Time-out,Timeout > General,Timeout,General,Timeout > General,parent,145
+sheet1_r146_parent,520: Web server is returning an unknown error,Timeout > General,Timeout,General,Timeout > General,parent,146
+sheet1_r147_parent,B0046,Timeout > General,Timeout,General,Timeout > General,parent,147
+sheet1_r147_baby,An error occurred while booking. Please try again later,Timeout > General,Timeout,General,Timeout > General,baby,147
+sheet1_r147_combined,B0046 || An error occurred while booking. Please try again later,Timeout > General,Timeout,General,Timeout > General,combined,147
+sheet1_r148_parent,Connection refused,Timeout > General,Timeout,General,Timeout > General,parent,148
+sheet1_r149_parent,Connection reset,Timeout > General,Timeout,General,Timeout > General,parent,149
+sheet1_r150_parent,DOWNSTREAM_CALL_FAILURE,Timeout > General,Timeout,General,Timeout > General,parent,150
+sheet1_r150_baby,Deadlock found when trying to get lock,Timeout > General,Timeout,General,Timeout > General,baby,150
+sheet1_r150_combined,DOWNSTREAM_CALL_FAILURE || Deadlock found when trying to get lock,Timeout > General,Timeout,General,Timeout > General,combined,150
+sheet1_r151_parent,DOWNSTREAM_CALL_TIMEOUT,Timeout > General,Timeout,General,Timeout > General,parent,151
+sheet1_r152_parent,Deadlock found when trying to get lock,Timeout > General,Timeout,General,Timeout > General,parent,152
+sheet1_r153_parent,Endpoint request timed out,Timeout > General,Timeout,General,Timeout > General,parent,153
+sheet1_r154_parent,Endpoint request timed out,Timeout > General,Timeout,General,Timeout > General,parent,154
+sheet1_r154_baby,504 Gateway Time-out,Timeout > General,Timeout,General,Timeout > General,baby,154
+sheet1_r154_combined,Endpoint request timed out || 504 Gateway Time-out,Timeout > General,Timeout,General,Timeout > General,combined,154
+sheet1_r155_parent,Error while calling API,Timeout > General,Timeout,General,Timeout > General,parent,155
+sheet1_r155_baby,timeout,Timeout > General,Timeout,General,Timeout > General,baby,155
+sheet1_r155_combined,Error while calling API || timeout,Timeout > General,Timeout,General,Timeout > General,combined,155
+sheet1_r156_parent,Failed to book with all available series,Timeout > General,Timeout,General,Timeout > General,parent,156
+sheet1_r157_parent,Failed to book with all available series,Timeout > General,Timeout,General,Timeout > General,parent,157
+sheet1_r157_baby,-1000,Timeout > General,Timeout,General,Timeout > General,baby,157
+sheet1_r157_combined,Failed to book with all available series || -1000,Timeout > General,Timeout,General,Timeout > General,combined,157
+sheet1_r158_parent,Failed to book with all available series,Timeout > General,Timeout,General,Timeout > General,parent,158
+sheet1_r158_baby,-1006,Timeout > General,Timeout,General,Timeout > General,baby,158
+sheet1_r158_combined,Failed to book with all available series || -1006,Timeout > General,Timeout,General,Timeout > General,combined,158
+sheet1_r159_parent,Failed to place hold on event capacity,Timeout > General,Timeout,General,Timeout > General,parent,159
+sheet1_r160_parent,INTERNAL ERROR,Timeout > General,Timeout,General,Timeout > General,parent,160
+sheet1_r160_baby,respax.com,Timeout > General,Timeout,General,Timeout > General,baby,160
+sheet1_r160_combined,INTERNAL ERROR || respax.com,Timeout > General,Timeout,General,Timeout > General,combined,160
+sheet1_r161_parent,INTERNAL_SERVER_ERROR,Timeout > General,Timeout,General,Timeout > General,parent,161
+sheet1_r162_parent,INTERNAL_SERVER_ERROR,Timeout > General,Timeout,General,Timeout > General,parent,162
+sheet1_r162_baby,Timed out after 60 seconds,Timeout > General,Timeout,General,Timeout > General,baby,162
+sheet1_r162_combined,INTERNAL_SERVER_ERROR || Timed out after 60 seconds,Timeout > General,Timeout,General,Timeout > General,combined,162
+sheet1_r163_parent,INVALID_THIRDPARTY_BOOKING,Timeout > General,Timeout,General,Timeout > General,parent,163
+sheet1_r163_baby,The server is currently unavailable,Timeout > General,Timeout,General,Timeout > General,baby,163
+sheet1_r163_combined,INVALID_THIRDPARTY_BOOKING || The server is currently unavailable,Timeout > General,Timeout,General,Timeout > General,combined,163
+sheet1_r164_parent,INVALID_THIRDPARTY_RESERVATION,Timeout > General,Timeout,General,Timeout > General,parent,164
+sheet1_r164_baby,acting as a gateway or proxy and received an invalid response from the upstream,Timeout > General,Timeout,General,Timeout > General,baby,164
+sheet1_r164_combined,INVALID_THIRDPARTY_RESERVATION || acting as a gateway or proxy and received an invalid response from the upstream,Timeout > General,Timeout,General,Timeout > General,combined,164
+sheet1_r165_parent,Internal error,Timeout > General,Timeout,General,Timeout > General,parent,165
+sheet1_r166_parent,Lock wait timeout exceeded,Timeout > General,Timeout,General,Timeout > General,parent,166
+sheet1_r166_baby,try restarting transaction,Timeout > General,Timeout,General,Timeout > General,baby,166
+sheet1_r166_combined,Lock wait timeout exceeded || try restarting transaction,Timeout > General,Timeout,General,Timeout > General,combined,166
+sheet1_r167_parent,MonoCoroutine,Timeout > General,Timeout,General,Timeout > General,parent,167
+sheet1_r167_baby,cancelled,Timeout > General,Timeout,General,Timeout > General,baby,167
+sheet1_r167_combined,MonoCoroutine || cancelled,Timeout > General,Timeout,General,Timeout > General,combined,167
+sheet1_r168_parent,MonoCoroutine was cancelled,Timeout > General,Timeout,General,Timeout > General,parent,168
+sheet1_r169_parent,No content to map due to end-of-input,Timeout > General,Timeout,General,Timeout > General,parent,169
+sheet1_r170_parent,RC_INTERNAL_ERROR,Timeout > General,Timeout,General,Timeout > General,parent,170
+sheet1_r170_baby,HTTP 500 Internal Server Error,Timeout > General,Timeout,General,Timeout > General,baby,170
+sheet1_r170_combined,RC_INTERNAL_ERROR || HTTP 500 Internal Server Error,Timeout > General,Timeout,General,Timeout > General,combined,170
+sheet1_r171_parent,Remote System Timeout,Timeout > General,Timeout,General,Timeout > General,parent,171
+sheet1_r172_parent,S0002,Timeout > General,Timeout,General,Timeout > General,parent,172
+sheet1_r172_baby,socket timeout,Timeout > General,Timeout,General,Timeout > General,baby,172
+sheet1_r172_combined,S0002 || socket timeout,Timeout > General,Timeout,General,Timeout > General,combined,172
+sheet1_r173_parent,SUPPLIER_SUBSYSTEM_ERROR,Timeout > General,Timeout,General,Timeout > General,parent,173
+sheet1_r173_baby,Operation timed out,Timeout > General,Timeout,General,Timeout > General,baby,173
+sheet1_r173_combined,SUPPLIER_SUBSYSTEM_ERROR || Operation timed out,Timeout > General,Timeout,General,Timeout > General,combined,173
+sheet1_r174_parent,Service response is not successful,Timeout > General,Timeout,General,Timeout > General,parent,174
+sheet1_r174_baby,InternalServerError,Timeout > General,Timeout,General,Timeout > General,baby,174
+sheet1_r174_combined,Service response is not successful || InternalServerError,Timeout > General,Timeout,General,Timeout > General,combined,174
+sheet1_r176_parent,Supplier cannot fulfill,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,176
+sheet1_r176_baby,try again later,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,176
+sheet1_r176_combined,Supplier cannot fulfill || try again later,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,176
+sheet1_r177_parent,THIRD_PARTY_TIMEOUT,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,177
+sheet1_r177_baby,Please reload the page or try again later,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,177
+sheet1_r177_combined,THIRD_PARTY_TIMEOUT || Please reload the page or try again later,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,177
+sheet1_r178_parent,THIRD_PARTY_TIMEOUT,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,178
+sheet1_r178_baby,gateway or proxy and did not receive a timely response,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,178
+sheet1_r178_combined,THIRD_PARTY_TIMEOUT || gateway or proxy and did not receive a timely response,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,178
+sheet1_r179_parent,The server was unable to process the request due to an internal error,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,179
+sheet1_r180_parent,UNAVAILABLE,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,180
+sheet1_r180_baby,connection termination,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,180
+sheet1_r180_combined,UNAVAILABLE || connection termination,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,180
+sheet1_r181_parent,Unable to checkout Booking,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,181
+sheet1_r181_baby,Invalid order response from Supplier,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,181
+sheet1_r181_combined,Unable to checkout Booking || Invalid order response from Supplier,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,181
+sheet1_r182_parent,canceled due to retrofit2,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,182
+sheet1_r182_baby,HTTP 401,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,182
+sheet1_r182_combined,canceled due to retrofit2 || HTTP 401,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,182
+sheet1_r183_parent,connection termination,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,183
+sheet1_r184_parent,connection timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,184
+sheet1_r185_parent,error code: 500,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,185
+sheet1_r186_parent,error.supplier.cannot.fulfill,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,186
+sheet1_r186_baby,Please try again later,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,186
+sheet1_r186_combined,error.supplier.cannot.fulfill || Please try again later,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,186
+sheet1_r187_parent,"jsonrpc\"" \""2.0",SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,187
+sheet1_r187_baby,BadRequest Fail create booking,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,187
+sheet1_r187_combined,"jsonrpc\"" \""2.0 || BadRequest Fail create booking",SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,187
+sheet1_r188_parent,reservationId,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,188
+sheet1_r188_baby,"ticketBarcodes\"" null",SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,188
+sheet1_r188_combined,"reservationId || ticketBarcodes\"" null",SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,188
+sheet1_r189_parent,system error occurred while processing,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,189
+sheet1_r189_baby,"start over, or call",SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,189
+sheet1_r189_combined,"system error occurred while processing || start over, or call",SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,189
+sheet1_r190_parent,timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,190
+sheet1_r191_parent,timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,191
+sheet1_r191_baby,502 Bad Gateway,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,191
+sheet1_r191_combined,timeout || 502 Bad Gateway,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,191
+sheet1_r192_parent,timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,192
+sheet1_r192_baby,Remote System Timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,192
+sheet1_r192_combined,timeout || Remote System Timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,192
+sheet1_r193_parent,unknown.error,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,193
+sheet1_r194_parent,upstream connect error or disconnect/reset before headers,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,194
+sheet1_r195_parent,upstream request timeout,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,195
+sheet1_r197_parent,TOO_MANY_REQUESTS,Timeout > Rate Limit Issue,Timeout,Rate Limit Issue,Timeout > Rate Limit Issue,parent,197
+sheet1_r198_parent,Too many follow-up requests,Timeout > Rate Limit Issue,Timeout,Rate Limit Issue,Timeout > Rate Limit Issue,parent,198
+sheet1_r200_parent,Host id BCGI does not exist,Timeout > Unknown,Timeout,Unknown,Timeout > Unknown,parent,200
+sheet1_r201_parent,Read timed out,Timeout > Unknown,Timeout,Unknown,Timeout > Unknown,parent,201
+sheet1_r202_parent,nnull for https,Timeout > Unknown,Timeout,Unknown,Timeout > Unknown,parent,202
+sheet1_r204_parent,ERROR RESPONSE 500,SP Issue > Config Issue,SP Issue,Config Issue,SP Issue > Config Issue,parent,204
+sheet1_r204_baby,Credit card token is required for Marketplace rates and Automated payments,SP Issue > Config Issue,SP Issue,Config Issue,SP Issue > Config Issue,baby,204
+sheet1_r204_combined,ERROR RESPONSE 500 || Credit card token is required for Marketplace rates and Automated payments,SP Issue > Config Issue,SP Issue,Config Issue,SP Issue > Config Issue,combined,204
+sheet1_r205_parent,已经售罄,SP Issue > Config Issue,SP Issue,Config Issue,SP Issue > Config Issue,parent,205
+sheet1_r206_parent,无法预订,SP Issue > Config Issue,SP Issue,Config Issue,SP Issue > Config Issue,parent,206
+sheet1_r207_parent,"Instantiation of [simple type, class com.headout.vendor.plugins.rayna.api.models.Result] value failed for JSON",SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,207
+sheet1_r208_parent,RC system error,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,208
+sheet1_r208_baby,RC system error response with no details,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,baby,208
+sheet1_r208_combined,RC system error || RC system error response with no details,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,combined,208
+sheet1_r209_parent,SUPPLIER_SUBSYSTEM_ERROR,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,209
+sheet1_r210_parent,SUPPLIER_SUBSYSTEM_ERROR,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,210
+sheet1_r210_baby,Status Returned: 400,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,baby,210
+sheet1_r210_combined,SUPPLIER_SUBSYSTEM_ERROR || Status Returned: 400,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,combined,210
+sheet1_r211_parent,SUPPLIER_SUBSYSTEM_ERROR,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,211
+sheet1_r211_baby,Status Returned: 500,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,baby,211
+sheet1_r211_combined,SUPPLIER_SUBSYSTEM_ERROR || Status Returned: 500,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,combined,211
+sheet1_r212_parent,creator parameter content which is a non-nullable,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,212
+sheet1_r213_parent,creator parameter data which is a non-nullable type,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,213
+sheet1_r214_parent,error.supplier.api.error,SP Issue > Unknown,SP Issue,Unknown,SP Issue > Unknown,parent,214
+sheet1_r215_parent,Could not find product,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,parent,215
+sheet1_r216_parent,INVALID_BARCODE_NOT_AVAILABLE,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,parent,216
+sheet1_r216_baby,there are no barcodes available,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,baby,216
+sheet1_r216_combined,INVALID_BARCODE_NOT_AVAILABLE || there are no barcodes available,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,combined,216
+sheet1_r217_parent,RC system error,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,parent,217
+sheet1_r217_baby,The requested product is not available,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,baby,217
+sheet1_r217_combined,RC system error || The requested product is not available,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,combined,217
+sheet1_r218_parent,error.package.item.not.published,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,parent,218
+sheet1_r219_parent,error.ticket.type.id.not.exist,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,parent,219
+sheet1_r220_parent,error.ticket.type.not.distributed,SP Issue > Product Unavailable,SP Issue,Product Unavailable,SP Issue > Product Unavailable,parent,220
+sheet1_r221_parent,INVALID_THIRDPARTY_RESERVATION,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,221
+sheet1_r221_baby,An error occured when request was processing at supplier end. Please contact with API,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,221
+sheet1_r221_combined,INVALID_THIRDPARTY_RESERVATION || An error occured when request was processing at supplier end. Please contact with API,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,221
+sheet1_r222_parent,INVALID_THIRDPARTY_RESERVATION,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,222
+sheet1_r222_baby,Unexpected response is received from third party supplier,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,222
+sheet1_r222_combined,INVALID_THIRDPARTY_RESERVATION || Unexpected response is received from third party supplier,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,222
+sheet1_r223_parent,INVALID_THIRDPARTY_RESERVATION,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,223
+sheet1_r223_baby,Unexpected response is received from third party supplier. Please contact with API,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,223
+sheet1_r223_combined,INVALID_THIRDPARTY_RESERVATION || Unexpected response is received from third party supplier. Please contact with API,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,223
+sheet1_r224_parent,INVALID_THIRDPARTY_RESERVATION,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,224
+sheet1_r224_baby,contains inconsistent or invalid data or is missing data,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,224
+sheet1_r224_combined,INVALID_THIRDPARTY_RESERVATION || contains inconsistent or invalid data or is missing data,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,224
+sheet1_r225_parent,Inventory product,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,225
+sheet1_r225_baby,cannot be booked,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,225
+sheet1_r225_combined,Inventory product || cannot be booked,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,225
+sheet1_r226_parent,Reservation failed for product id,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,226
+sheet1_r226_baby,Error while creating reservation,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,226
+sheet1_r226_combined,Reservation failed for product id || Error while creating reservation,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,226
+sheet1_r227_parent,error.allotment.hold,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,227
+sheet1_r228_parent,error.contact.account.manager,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,228
+sheet1_r229_parent,error.merchant.booking.error,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,229
+sheet1_r230_parent,error.supplier.api.error,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,parent,230
+sheet1_r230_baby,The ticket has been redeemed,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,baby,230
+sheet1_r230_combined,error.supplier.api.error || The ticket has been redeemed,SP Issue > Booking Failed,SP Issue,Booking Failed,SP Issue > Booking Failed,combined,230
+sheet1_r231_parent,PENDING_PAYMENT,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,parent,231
+sheet1_r232_parent,RC system error,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,parent,232
+sheet1_r232_baby,Cannot read properties of undefined,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,baby,232
+sheet1_r232_combined,RC system error || Cannot read properties of undefined,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,combined,232
+sheet1_r233_parent,RC system error,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,parent,233
+sheet1_r233_baby,No sessions available,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,baby,233
+sheet1_r233_combined,RC system error || No sessions available,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,combined,233
+sheet1_r234_parent,RC system error,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,parent,234
+sheet1_r234_baby,Reservation in the external system failed,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,baby,234
+sheet1_r234_combined,RC system error || Reservation in the external system failed,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,combined,234
+sheet1_r235_parent,RC system error,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,parent,235
+sheet1_r235_baby,Unexpected token,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,baby,235
+sheet1_r235_combined,RC system error || Unexpected token,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,combined,235
+sheet1_r236_parent,RC_INTERNAL_ERROR,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,parent,236
+sheet1_r236_baby,ProcessingException Already connected,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,baby,236
+sheet1_r236_combined,RC_INTERNAL_ERROR || ProcessingException Already connected,SP Issue > Booking Not Confirmed,SP Issue,Booking Not Confirmed,SP Issue > Booking Not Confirmed,combined,236
+sheet1_r237_parent,ya ha sido utilizado por el Partner,SP Issue > Stale Inventory,SP Issue,Stale Inventory,SP Issue > Stale Inventory,parent,237
+sheet1_r238_parent,Payed order is null,SP Issue > Pending Confirmation,SP Issue,Pending Confirmation,SP Issue > Pending Confirmation,parent,238
+sheet1_r239_parent,REJECTED,SP Issue > ID disabled,SP Issue,ID disabled,SP Issue > ID disabled,parent,239
+sheet1_r239_baby,Channel is not enabled for the supplier,SP Issue > ID disabled,SP Issue,ID disabled,SP Issue > ID disabled,baby,239
+sheet1_r239_combined,REJECTED || Channel is not enabled for the supplier,SP Issue > ID disabled,SP Issue,ID disabled,SP Issue > ID disabled,combined,239
+sheet1_r240_parent,not valid,SP Issue > Product Code Issue,SP Issue,Product Code Issue,SP Issue > Product Code Issue,parent,240
+sheet1_r240_baby,"code\"":4002",SP Issue > Product Code Issue,SP Issue,Product Code Issue,SP Issue > Product Code Issue,baby,240
+sheet1_r240_combined,"not valid || code\"":4002",SP Issue > Product Code Issue,SP Issue,Product Code Issue,SP Issue > Product Code Issue,combined,240
+sheet1_r241_parent,Invalid checkout option,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,parent,241
+sheet1_r241_baby,CUSTOMER_NO_PAYMENT,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,baby,241
+sheet1_r241_combined,Invalid checkout option || CUSTOMER_NO_PAYMENT,SP Issue > Payment Issue,SP Issue,Payment Issue,SP Issue > Payment Issue,combined,241
+sheet1_r242_parent,Existing External OrderNumber,SP Issue > Auto Reschedule Failed,SP Issue,Auto Reschedule Failed,SP Issue > Auto Reschedule Failed,parent,242
+sheet1_r244_parent,An event id must be supplied,Orphan,Orphan,,Orphan,parent,244
+sheet1_r245_parent,Booking invalid,Orphan,Orphan,,Orphan,parent,245
+sheet1_r245_baby,fase di prenotazione sul provider,Orphan,Orphan,,Orphan,baby,245
+sheet1_r245_combined,Booking invalid || fase di prenotazione sul provider,Orphan,Orphan,,Orphan,combined,245
+sheet1_r246_parent,DEADLINE_EXCEEDED,Orphan,Orphan,,Orphan,parent,246
+sheet1_r247_parent,DEADLINE_EXCEEDED,Orphan,Orphan,,Orphan,parent,247
+sheet1_r247_baby,Request timeout,Orphan,Orphan,,Orphan,baby,247
+sheet1_r247_combined,DEADLINE_EXCEEDED || Request timeout,Orphan,Orphan,,Orphan,combined,247
+sheet1_r248_parent,Error at low level API lib,Orphan,Orphan,,Orphan,parent,248
+sheet1_r249_parent,Error while calling API: HTTP,Orphan,Orphan,,Orphan,parent,249
+sheet1_r250_parent,FAIL_SIG,Orphan,Orphan,,Orphan,parent,250
+sheet1_r251_parent,Failed to retrieve product pricing,Orphan,Orphan,,Orphan,parent,251
+sheet1_r252_parent,INTERNAL_SERVER_ERROR,Orphan,Orphan,,Orphan,parent,252
+sheet1_r252_baby,Please pass the id of the object by calling,Orphan,Orphan,,Orphan,baby,252
+sheet1_r252_combined,INTERNAL_SERVER_ERROR || Please pass the id of the object by calling,Orphan,Orphan,,Orphan,combined,252
+sheet1_r253_parent,INTERNAL_SERVER_ERROR,Orphan,Orphan,,Orphan,parent,253
+sheet1_r253_baby,can't convert nil into Float,Orphan,Orphan,,Orphan,baby,253
+sheet1_r253_combined,INTERNAL_SERVER_ERROR || can't convert nil into Float,Orphan,Orphan,,Orphan,combined,253
+sheet1_r254_parent,INTERNAL_SERVER_ERROR,Orphan,Orphan,,Orphan,parent,254
+sheet1_r254_baby,terms_accepted_default,Orphan,Orphan,,Orphan,baby,254
+sheet1_r254_combined,INTERNAL_SERVER_ERROR || terms_accepted_default,Orphan,Orphan,,Orphan,combined,254
+sheet1_r255_parent,INTERNAL_SERVER_ERROR,Orphan,Orphan,,Orphan,parent,255
+sheet1_r255_baby,undefined method 'cancelled_at,Orphan,Orphan,,Orphan,baby,255
+sheet1_r255_combined,INTERNAL_SERVER_ERROR || undefined method 'cancelled_at,Orphan,Orphan,,Orphan,combined,255
+sheet1_r256_parent,Internal Server Error,Orphan,Orphan,,Orphan,parent,256
+sheet1_r256_baby,bookings/create,Orphan,Orphan,,Orphan,baby,256
+sheet1_r256_combined,Internal Server Error || bookings/create,Orphan,Orphan,,Orphan,combined,256
+sheet1_r257_parent,Internal Service Error,Orphan,Orphan,,Orphan,parent,257
+sheet1_r258_parent,Internal Service Error,Orphan,Orphan,,Orphan,parent,258
+sheet1_r258_baby,500.502.100,Orphan,Orphan,,Orphan,baby,258
+sheet1_r258_combined,Internal Service Error || 500.502.100,Orphan,Orphan,,Orphan,combined,258
+sheet1_r259_parent,MISSING OR INCORRECT KEY,Orphan,Orphan,,Orphan,parent,259
+sheet1_r260_parent,No place for this,Orphan,Orphan,,Orphan,parent,260
+sheet1_r261_parent,No prices returned for product,Orphan,Orphan,,Orphan,parent,261
+sheet1_r262_parent,REJECTED,Orphan,Orphan,,Orphan,parent,262
+sheet1_r262_baby,Booking is canceled,Orphan,Orphan,,Orphan,baby,262
+sheet1_r262_combined,REJECTED || Booking is canceled,Orphan,Orphan,,Orphan,combined,262
+sheet1_r263_parent,REJECTED,Orphan,Orphan,,Orphan,parent,263
+sheet1_r263_baby,Quantity is too high,Orphan,Orphan,,Orphan,baby,263
+sheet1_r263_combined,REJECTED || Quantity is too high,Orphan,Orphan,,Orphan,combined,263
+sheet1_r264_parent,Remote Connection Not Found,Orphan,Orphan,,Orphan,parent,264
+sheet1_r265_parent,Remote Connection Not Found,Orphan,Orphan,,Orphan,parent,265
+sheet1_r265_baby,bookings/create,Orphan,Orphan,,Orphan,baby,265
+sheet1_r265_combined,Remote Connection Not Found || bookings/create,Orphan,Orphan,,Orphan,combined,265
+sheet1_r266_parent,Request malformed,Orphan,Orphan,,Orphan,parent,266
+sheet1_r267_parent,UNAVAILABLE,Orphan,Orphan,,Orphan,parent,267
+sheet1_r267_baby,connection reset by peer,Orphan,Orphan,,Orphan,baby,267
+sheet1_r267_combined,UNAVAILABLE || connection reset by peer,Orphan,Orphan,,Orphan,combined,267
+sheet1_r268_parent,UNKNOWN,Orphan,Orphan,,Orphan,parent,268
+sheet1_r269_parent,Unable to checkout,Orphan,Orphan,,Orphan,parent,269
+sheet1_r270_parent,cannot store Credit Card,Orphan,Orphan,,Orphan,parent,270
+sheet1_r271_parent,duplicate_input,Orphan,Orphan,,Orphan,parent,271
+sheet1_r272_parent,failed to get allotment calendar,Orphan,Orphan,,Orphan,parent,272
+sheet1_r272_baby,connection reset by peer,Orphan,Orphan,,Orphan,baby,272
+sheet1_r272_combined,failed to get allotment calendar || connection reset by peer,Orphan,Orphan,,Orphan,combined,272
+sheet1_r273_parent,invalid_data,Orphan,Orphan,,Orphan,parent,273
+sheet1_r273_baby,Invalid,Orphan,Orphan,,Orphan,baby,273
+sheet1_r273_combined,invalid_data || Invalid,Orphan,Orphan,,Orphan,combined,273
+sheet1_r274_parent,invalid_data,Orphan,Orphan,,Orphan,parent,274
+sheet1_r274_baby,Required,Orphan,Orphan,,Orphan,baby,274
+sheet1_r274_combined,invalid_data || Required,Orphan,Orphan,,Orphan,combined,274
+sheet1_r276_parent,remote request invalid,Orphan,Orphan,,Orphan,parent,276
+sheet1_r277_parent,remote request invalid,Orphan,Orphan,,Orphan,parent,277
+sheet1_r277_baby,bookings/create,Orphan,Orphan,,Orphan,baby,277
+sheet1_r277_combined,remote request invalid || bookings/create,Orphan,Orphan,,Orphan,combined,277
+sheet1_r278_parent,remote request invalid,Orphan,Orphan,,Orphan,parent,278
+sheet1_r278_baby,connections/vacancy,Orphan,Orphan,,Orphan,baby,278
+sheet1_r278_combined,remote request invalid || connections/vacancy,Orphan,Orphan,,Orphan,combined,278
+sheet1_r279_parent,remote system error,Orphan,Orphan,,Orphan,parent,279
+sheet1_r280_parent,remote system unavailable,Orphan,Orphan,,Orphan,parent,280
+sheet1_r281_parent,response from remote server logically cannot be processed\,Orphan,Orphan,,Orphan,parent,281
+sheet1_r282_parent,response received from a remote server technically cannot be processed,Orphan,Orphan,,Orphan,parent,282
+sheet1_r283_parent,successful,Orphan,Orphan,,Orphan,parent,283
+sheet1_r284_parent,transaction_uuid,Orphan,Orphan,,Orphan,parent,284
+sheet1_r286_parent,200,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,286
+sheet1_r286_baby,Pickup Details is compulsory in Private and Sharing Transfer,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,286
+sheet1_r286_combined,200 || Pickup Details is compulsory in Private and Sharing Transfer,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,286
+sheet1_r287_parent,Answer not found for custom field,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,287
+sheet1_r287_baby,Flexible Timing (Choose as per your preference),Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,287
+sheet1_r287_combined,Answer not found for custom field || Flexible Timing (Choose as per your preference),Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,287
+sheet1_r288_parent,Answer not found for custom field,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,288
+sheet1_r288_baby,Nationality(nationality),Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,288
+sheet1_r288_combined,Answer not found for custom field || Nationality(nationality),Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,288
+sheet1_r289_parent,B0001,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,289
+sheet1_r289_baby,Gender is required for this traveler,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,289
+sheet1_r289_combined,B0001 || Gender is required for this traveler,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,289
+sheet1_r290_parent,CustomFieldMap is missing,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,290
+sheet1_r291_parent,Email can't be blank,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,291
+sheet1_r292_parent,Invalid or missing answers for the booking,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,292
+sheet1_r293_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,293
+sheet1_r294_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,294
+sheet1_r294_baby,dateOfBirth,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,294
+sheet1_r294_combined,Please add custom field mapping || dateOfBirth,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,294
+sheet1_r295_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,295
+sheet1_r295_baby,language,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,295
+sheet1_r295_combined,Please add custom field mapping || language,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,295
+sheet1_r296_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,296
+sheet1_r296_baby,nationality,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,296
+sheet1_r296_combined,Please add custom field mapping || nationality,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,296
+sheet1_r297_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,297
+sheet1_r297_baby,personalIdNumber,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,297
+sheet1_r297_combined,Please add custom field mapping || personalIdNumber,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,297
+sheet1_r298_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,298
+sheet1_r298_baby,pickupPlaceDescription,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,298
+sheet1_r298_combined,Please add custom field mapping || pickupPlaceDescription,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,298
+sheet1_r299_parent,Please add custom field mapping,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,299
+sheet1_r299_baby,title,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,299
+sheet1_r299_combined,Please add custom field mapping || title,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,299
+sheet1_r300_parent,Unable to find user field,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,300
+sheet1_r301_parent,backend pickup not found,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,301
+sheet1_r302_parent,custom field ID,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,302
+sheet1_r302_baby,not configured,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,302
+sheet1_r302_combined,custom field ID || not configured,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,302
+sheet1_r303_parent,error.checkout.missing.required.answer,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,303
+sheet1_r304_parent,is invalid or missing,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,304
+sheet1_r304_baby,"birthdate
+government ID",Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,baby,304
+sheet1_r304_combined,"is invalid or missing || birthdate
+government ID",Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,combined,304
+sheet1_r305_parent,pickupPlaces,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,305
+sheet1_r306_parent,point not found,Custom Field > Missing Custom Fields,Custom Field,Missing Custom Fields,Custom Field > Missing Custom Fields,parent,306
+sheet1_r307_parent,Date of Birth is not valid,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,307
+sheet1_r308_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,308
+sheet1_r309_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,309
+sheet1_r309_baby,11,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,309
+sheet1_r309_combined,Wrong custom field id configured || 11,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,309
+sheet1_r310_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,310
+sheet1_r310_baby,P_GENDER,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,310
+sheet1_r310_combined,Wrong custom field id configured || P_GENDER,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,310
+sheet1_r311_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,311
+sheet1_r311_baby,P_HOME_VISITING_CERTIFICATE,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,311
+sheet1_r311_combined,Wrong custom field id configured || P_HOME_VISITING_CERTIFICATE,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,311
+sheet1_r312_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,312
+sheet1_r312_baby,P_HONGKONG_MACAO_PASS,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,312
+sheet1_r312_combined,Wrong custom field id configured || P_HONGKONG_MACAO_PASS,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,312
+sheet1_r313_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,313
+sheet1_r313_baby,P_TAIWAN_PASS,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,313
+sheet1_r313_combined,Wrong custom field id configured || P_TAIWAN_PASS,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,313
+sheet1_r314_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,314
+sheet1_r314_baby,P_TELPHONE,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,314
+sheet1_r314_combined,Wrong custom field id configured || P_TELPHONE,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,314
+sheet1_r315_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,315
+sheet1_r315_baby,P_TELPHONE_AREA_CODE,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,315
+sheet1_r315_combined,Wrong custom field id configured || P_TELPHONE_AREA_CODE,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,315
+sheet1_r316_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,316
+sheet1_r316_baby,address,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,316
+sheet1_r316_combined,Wrong custom field id configured || address,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,316
+sheet1_r317_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,317
+sheet1_r317_baby,dateOfBirth,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,317
+sheet1_r317_combined,Wrong custom field id configured || dateOfBirth,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,317
+sheet1_r318_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,318
+sheet1_r318_baby,nationality,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,318
+sheet1_r318_combined,Wrong custom field id configured || nationality,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,318
+sheet1_r319_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,319
+sheet1_r319_baby,personalIdNumber,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,319
+sheet1_r319_combined,Wrong custom field id configured || personalIdNumber,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,319
+sheet1_r320_parent,Wrong custom field id configured,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,320
+sheet1_r320_baby,pickupPlaceDescription,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,320
+sheet1_r320_combined,Wrong custom field id configured || pickupPlaceDescription,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,320
+sheet1_r321_parent,custom_field pk,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,321
+sheet1_r321_baby,values are invalid,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,baby,321
+sheet1_r321_combined,custom_field pk || values are invalid,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,combined,321
+sheet1_r322_parent,wrong_dropdown_option_id,Custom Field > Wrong Custom Field Updated,Custom Field,Wrong Custom Field Updated,Custom Field > Wrong Custom Field Updated,parent,322
+sheet1_r323_parent,Unable to parse,Custom Field > Format Issue,Custom Field,Format Issue,Custom Field > Format Issue,parent,323
+sheet1_r323_baby,date in an invalid format,Custom Field > Format Issue,Custom Field,Format Issue,Custom Field > Format Issue,baby,323
+sheet1_r323_combined,Unable to parse || date in an invalid format,Custom Field > Format Issue,Custom Field,Format Issue,Custom Field > Format Issue,combined,323
+sheet1_r324_parent,custom field ID,Custom Field > Missing Dropdown Values,Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,parent,324
+sheet1_r324_baby,Not able to find answer/value,Custom Field > Missing Dropdown Values,Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,baby,324
+sheet1_r324_combined,custom field ID || Not able to find answer/value,Custom Field > Missing Dropdown Values,Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,combined,324
+sheet1_r325_parent,custom_field pk,Custom Field > Missing Dropdown Values,Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,parent,325
+sheet1_r325_baby,The value,Custom Field > Missing Dropdown Values,Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,baby,325
+sheet1_r325_combined,custom_field pk || The value,Custom Field > Missing Dropdown Values,Custom Field,Missing Dropdown Values,Custom Field > Missing Dropdown Values,combined,325
+sheet1_r326_parent,Booking failed bookingId,Custom Field > Unknown,Custom Field,Unknown,Custom Field > Unknown,parent,326
+sheet1_r326_baby,MISSING_FIELD:UNKNOW,Custom Field > Unknown,Custom Field,Unknown,Custom Field > Unknown,baby,326
+sheet1_r326_combined,Booking failed bookingId || MISSING_FIELD:UNKNOW,Custom Field > Unknown,Custom Field,Unknown,Custom Field > Unknown,combined,326
+sheet1_r327_parent,Invalid option for tel_country_code,Custom Field > Custom Field Values mismatch,Custom Field,Custom Field Values mismatch,Custom Field > Custom Field Values mismatch,parent,327
+sheet1_r329_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,329
+sheet1_r329_baby,520,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,329
+sheet1_r329_combined,unreserved_orders || 520,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,329
+sheet1_r330_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,330
+sheet1_r330_baby,Failed to get a generic adapter Reserve result,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,330
+sheet1_r330_combined,unreserved_orders || Failed to get a generic adapter Reserve result,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,330
+sheet1_r331_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,331
+sheet1_r331_baby,Invalid quantity,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,331
+sheet1_r331_combined,unreserved_orders || Invalid quantity,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,331
+sheet1_r332_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,332
+sheet1_r332_baby,No inventory found to match request,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,332
+sheet1_r332_combined,unreserved_orders || No inventory found to match request,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,332
+sheet1_r333_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,333
+sheet1_r333_baby,Non-matching seats requested for two-part order,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,333
+sheet1_r333_combined,unreserved_orders || Non-matching seats requested for two-part order,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,333
+sheet1_r334_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,334
+sheet1_r334_baby,One or more of the seats you requested is no longer available,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,334
+sheet1_r334_combined,unreserved_orders || One or more of the seats you requested is no longer available,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,334
+sheet1_r335_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,335
+sheet1_r335_baby,One or more of the selected seats is not available,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,335
+sheet1_r335_combined,unreserved_orders || One or more of the selected seats is not available,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,335
+sheet1_r336_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,336
+sheet1_r336_baby,Performance List is not coming as expected for event,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,336
+sheet1_r336_combined,unreserved_orders || Performance List is not coming as expected for event,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,336
+sheet1_r337_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,337
+sheet1_r337_baby,Request synthesis failed,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,337
+sheet1_r337_combined,unreserved_orders || Request synthesis failed,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,337
+sheet1_r338_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,338
+sheet1_r338_baby,This Performance or Package is not for sale in this MOS,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,338
+sheet1_r338_combined,unreserved_orders || This Performance or Package is not for sale in this MOS,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,338
+sheet1_r339_parent,unreserved_orders,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,parent,339
+sheet1_r339_baby,input_contained_unavailable_order,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,baby,339
+sheet1_r339_combined,unreserved_orders || input_contained_unavailable_order,Seatmap > Current Slot Unavailable,Seatmap,Current Slot Unavailable,Seatmap > Current Slot Unavailable,combined,339
+sheet1_r341_parent,Failed to buy tickets as session expired from broadway,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,parent,341
+sheet1_r341_baby,book it manually from the portal,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,baby,341
+sheet1_r341_combined,Failed to buy tickets as session expired from broadway || book it manually from the portal,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,combined,341
+sheet1_r342_parent,Service Unavailable,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,parent,342
+sheet1_r343_parent,unreserved_orders,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,parent,343
+sheet1_r343_baby,Endpoint request timed out,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,baby,343
+sheet1_r343_combined,unreserved_orders || Endpoint request timed out,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,combined,343
+sheet1_r344_parent,unreserved_orders,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,parent,344
+sheet1_r344_baby,System is marked as broken,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,baby,344
+sheet1_r344_combined,unreserved_orders || System is marked as broken,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,combined,344
+sheet1_r345_parent,unreserved_orders,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,parent,345
+sheet1_r345_baby,Test connection failed,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,baby,345
+sheet1_r345_combined,unreserved_orders || Test connection failed,Seatmap > Timeout,Seatmap,Timeout,Seatmap > Timeout,combined,345
+sheet1_r346_parent,One or more of the seats you requested is no longer available,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,346
+sheet1_r347_parent,cannot leave behind stranded single,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,347
+sheet1_r348_parent,select a different seat so that no seat feels lonely,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,348
+sheet1_r349_parent,single seat. Please select different seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,349
+sheet1_r350_parent,unreserved_orders,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,350
+sheet1_r350_baby,Event requires contiguous seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,baby,350
+sheet1_r350_combined,unreserved_orders || Event requires contiguous seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,combined,350
+sheet1_r351_parent,unreserved_orders,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,351
+sheet1_r351_baby,This seat combination would leave single seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,baby,351
+sheet1_r351_combined,unreserved_orders || This seat combination would leave single seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,combined,351
+sheet1_r352_parent,unreserved_orders,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,parent,352
+sheet1_r352_baby,leave one or more single seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,baby,352
+sheet1_r352_combined,unreserved_orders || leave one or more single seats,Seatmap > Single Seat Issue,Seatmap,Single Seat Issue,Seatmap > Single Seat Issue,combined,352
+sheet1_r353_parent,BadRequest,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,parent,353
+sheet1_r353_baby,Please enter a valid email address,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,baby,353
+sheet1_r353_combined,BadRequest || Please enter a valid email address,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,combined,353
+sheet1_r354_parent,broadway-reserve-bookingId,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,parent,354
+sheet1_r354_baby,not found in redis,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,baby,354
+sheet1_r354_combined,broadway-reserve-bookingId || not found in redis,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,combined,354
+sheet1_r355_parent,not found in redis and cannot fetch reserveSessionId,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,parent,355
+sheet1_r355_baby,Please book it manually from the portal,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,baby,355
+sheet1_r355_combined,not found in redis and cannot fetch reserveSessionId || Please book it manually from the portal,Seatmap > Book Manually,Seatmap,Book Manually,Seatmap > Book Manually,combined,355
+sheet1_r356_parent,Failed to get seat metadata,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,parent,356
+sheet1_r357_parent,unreserved_orders,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,parent,357
+sheet1_r358_parent,unreserved_orders,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,parent,358
+sheet1_r358_baby,Best available mode not enabled,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,baby,358
+sheet1_r358_combined,unreserved_orders || Best available mode not enabled,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,combined,358
+sheet1_r359_parent,unreserved_orders,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,parent,359
+sheet1_r359_baby,Sale mode is 'blocked,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,baby,359
+sheet1_r359_combined,unreserved_orders || Sale mode is 'blocked,Seatmap > Unknown,Seatmap,Unknown,Seatmap > Unknown,combined,359
+sheet1_r360_parent,A seat requested is not eligible for the provided (or default) promotion,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,parent,360
+sheet1_r361_parent,Failed to create basket and add items,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,parent,361
+sheet1_r362_parent,Failed to create basket and add items,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,parent,362
+sheet1_r362_baby,400,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,baby,362
+sheet1_r362_combined,Failed to create basket and add items || 400,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,combined,362
+sheet1_r363_parent,Failed to create basket and add items,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,parent,363
+sheet1_r363_baby,409,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,baby,363
+sheet1_r363_combined,Failed to create basket and add items || 409,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,combined,363
+sheet1_r364_parent,Failed to create basket and add items,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,parent,364
+sheet1_r364_baby,502,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,baby,364
+sheet1_r364_combined,Failed to create basket and add items || 502,Seatmap > Seats UA,Seatmap,Seats UA,Seatmap > Seats UA,combined,364
+sheet1_r365_parent,Failed to create basket and add items,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,parent,365
+sheet1_r365_baby,ModelNotFoundError,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,baby,365
+sheet1_r365_combined,Failed to create basket and add items || ModelNotFoundError,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,combined,365
+sheet1_r366_parent,Failed to create basket and add items,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,parent,366
+sheet1_r366_baby,Seat is not available,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,baby,366
+sheet1_r366_combined,Failed to create basket and add items || Seat is not available,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,combined,366
+sheet1_r367_parent,Failed to create basket and add items,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,parent,367
+sheet1_r367_baby,Unknown Error,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,baby,367
+sheet1_r367_combined,Failed to create basket and add items || Unknown Error,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,combined,367
+sheet1_r368_parent,unreserved_orders,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,parent,368
+sheet1_r368_baby,Capacity hold has expired,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,baby,368
+sheet1_r368_combined,unreserved_orders || Capacity hold has expired,Seatmap > Booking Delayed,Seatmap,Booking Delayed,Seatmap > Booking Delayed,combined,368
+sheet1_r369_parent,Seat not found for vendorBookable,Seatmap > Inventory Issue,Seatmap,Inventory Issue,Seatmap > Inventory Issue,parent,369
+sheet1_r370_parent,Failed to checkout,Seatmap > Seat Validation Issue,Seatmap,Seat Validation Issue,Seatmap > Seat Validation Issue,parent,370
+sheet1_r372_parent,Invalid vendor product code,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,372
+sheet1_r372_baby,ADULT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,372
+sheet1_r372_combined,Invalid vendor product code || ADULT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,372
+sheet1_r373_parent,Invalid vendor product code,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,373
+sheet1_r373_baby,CHILD,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,373
+sheet1_r373_combined,Invalid vendor product code || CHILD,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,373
+sheet1_r374_parent,Invalid vendor product code,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,374
+sheet1_r374_baby,GENERAL,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,374
+sheet1_r374_combined,Invalid vendor product code || GENERAL,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,374
+sheet1_r375_parent,Invalid vendor product code,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,375
+sheet1_r375_baby,YOUTH,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,375
+sheet1_r375_combined,Invalid vendor product code || YOUTH,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,375
+sheet1_r376_parent,Missing custom field with id,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,376
+sheet1_r376_baby,CHILD,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,376
+sheet1_r376_combined,Missing custom field with id || CHILD,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,376
+sheet1_r377_parent,No Person Type mapping found,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,377
+sheet1_r377_baby,ADULT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,377
+sheet1_r377_combined,No Person Type mapping found || ADULT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,377
+sheet1_r378_parent,No Person Type mapping found,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,378
+sheet1_r378_baby,GENERAL,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,378
+sheet1_r378_combined,No Person Type mapping found || GENERAL,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,378
+sheet1_r379_parent,No Person Type mapping found,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,379
+sheet1_r379_baby,INFANT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,379
+sheet1_r379_combined,No Person Type mapping found || INFANT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,379
+sheet1_r380_parent,PaxType to BandCode mapping,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,380
+sheet1_r381_parent,Please add custom field mapping,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,381
+sheet1_r381_baby,country,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,381
+sheet1_r381_combined,Please add custom field mapping || country,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,381
+sheet1_r382_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,382
+sheet1_r382_baby,ADULT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,382
+sheet1_r382_combined,Product id for paxtype || ADULT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,382
+sheet1_r383_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,383
+sheet1_r383_baby,ADULT_DOUBLE_CABIN,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,383
+sheet1_r383_combined,Product id for paxtype || ADULT_DOUBLE_CABIN,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,383
+sheet1_r384_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,384
+sheet1_r384_baby,CHILD,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,384
+sheet1_r384_combined,Product id for paxtype || CHILD,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,384
+sheet1_r385_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,385
+sheet1_r385_baby,GENERAL,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,385
+sheet1_r385_combined,Product id for paxtype || GENERAL,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,385
+sheet1_r386_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,386
+sheet1_r386_baby,GROUP,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,386
+sheet1_r386_combined,Product id for paxtype || GROUP,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,386
+sheet1_r387_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,387
+sheet1_r387_baby,INFANT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,387
+sheet1_r387_combined,Product id for paxtype || INFANT,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,387
+sheet1_r388_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,388
+sheet1_r388_baby,SINGLE_OCCUPANCY,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,388
+sheet1_r388_combined,Product id for paxtype || SINGLE_OCCUPANCY,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,388
+sheet1_r389_parent,Product id for paxtype,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,389
+sheet1_r389_baby,YOUTH,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,389
+sheet1_r389_combined,Product id for paxtype || YOUTH,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,389
+sheet1_r390_parent,not present in productCode,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,390
+sheet1_r390_baby,GENERAL is not present,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,baby,390
+sheet1_r390_combined,not present in productCode || GENERAL is not present,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,combined,390
+sheet1_r391_parent,select a different Fare Type or a different Member to correct this,Set Up Issue > Pax Mapping Mismatch,Set Up Issue,Pax Mapping Mismatch,Set Up Issue > Pax Mapping Mismatch,parent,391
+sheet1_r392_parent,200,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,392
+sheet1_r392_baby,Travel date should not be less than current date,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,baby,392
+sheet1_r392_combined,200 || Travel date should not be less than current date,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,combined,392
+sheet1_r393_parent,Due to Lead Times,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,393
+sheet1_r393_baby,cannot be booked online,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,baby,393
+sheet1_r393_combined,Due to Lead Times || cannot be booked online,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,combined,393
+sheet1_r394_parent,GEN-UNPROCESSABLE,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,394
+sheet1_r394_baby,Please choose a later time,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,baby,394
+sheet1_r394_combined,GEN-UNPROCESSABLE || Please choose a later time,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,combined,394
+sheet1_r395_parent,You cannot book less than 24 hours in advance,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,395
+sheet1_r395_baby,24 hours,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,baby,395
+sheet1_r395_combined,You cannot book less than 24 hours in advance || 24 hours,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,combined,395
+sheet1_r396_parent,You cannot book less than 5 hours in advance,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,396
+sheet1_r396_baby,5 hours,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,baby,396
+sheet1_r396_combined,You cannot book less than 5 hours in advance || 5 hours,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,combined,396
+sheet1_r397_parent,error.invalid.advance.booking.date.value,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,397
+sheet1_r398_parent,error.redemption.start.date.earlier.than.today,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,398
+sheet1_r399_parent,"jsonrpc\"" \""2.0",Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,parent,399
+sheet1_r399_baby,Cut Off time passed,Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,baby,399
+sheet1_r399_combined,"jsonrpc\"" \""2.0 || Cut Off time passed",Set Up Issue > Release Period,Set Up Issue,Release Period,Set Up Issue > Release Period,combined,399
+sheet1_r400_parent,Invalid vendor product code,Set Up Issue > Product Code Issue,Set Up Issue,Product Code Issue,Set Up Issue > Product Code Issue,parent,400
+sheet1_r400_baby,not found in fetched list,Set Up Issue > Product Code Issue,Set Up Issue,Product Code Issue,Set Up Issue > Product Code Issue,baby,400
+sheet1_r400_combined,Invalid vendor product code || not found in fetched list,Set Up Issue > Product Code Issue,Set Up Issue,Product Code Issue,Set Up Issue > Product Code Issue,combined,400
+sheet1_r401_parent,does not have pricing category,Set Up Issue > Product Code Issue,Set Up Issue,Product Code Issue,Set Up Issue > Product Code Issue,parent,401
+sheet1_r402_parent,INVALID_PRODUCT_TYPE_COUNT,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,parent,402
+sheet1_r402_baby,product type count should be under product,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,baby,402
+sheet1_r402_combined,INVALID_PRODUCT_TYPE_COUNT || product type count should be under product,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,combined,402
+sheet1_r403_parent,Too many children added,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,parent,403
+sheet1_r403_baby,Maximum 2 children per adult allowed,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,baby,403
+sheet1_r403_combined,Too many children added || Maximum 2 children per adult allowed,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,combined,403
+sheet1_r404_parent,error.checkout.maximum.quantity,Set Up Issue > Min Pax Requirement Issue,Set Up Issue,Min Pax Requirement Issue,Set Up Issue > Min Pax Requirement Issue,parent,404
+sheet1_r405_parent,P0001,Set Up Issue > Invalid Product ID,Set Up Issue,Invalid Product ID,Set Up Issue > Invalid Product ID,parent,405
+sheet1_r405_baby,ProductID is not exist,Set Up Issue > Invalid Product ID,Set Up Issue,Invalid Product ID,Set Up Issue > Invalid Product ID,baby,405
+sheet1_r405_combined,P0001 || ProductID is not exist,Set Up Issue > Invalid Product ID,Set Up Issue,Invalid Product ID,Set Up Issue > Invalid Product ID,combined,405
+sheet1_r406_parent,GEN-UNPROCESSABLE,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,parent,406
+sheet1_r406_baby,may not be greater than,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,baby,406
+sheet1_r406_combined,GEN-UNPROCESSABLE || may not be greater than,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,combined,406
+sheet1_r407_parent,Invalid number of guests,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,parent,407
+sheet1_r407_baby,must be between,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,baby,407
+sheet1_r407_combined,Invalid number of guests || must be between,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,combined,407
+sheet1_r408_parent,Number of passengers is limited,Set Up Issue > Pax Limit Issue,Set Up Issue,Pax Limit Issue,Set Up Issue > Pax Limit Issue,parent,408
+sheet1_r409_parent,Multiple packages found for a single time slot mapping,Set Up Issue > Schedule Type Mismatch,Set Up Issue,Schedule Type Mismatch,Set Up Issue > Schedule Type Mismatch,parent,409
+sheet1_r410_parent,You cannot book for more than 10 Passengers,Set Up Issue > Max Pax Mismatch,Set Up Issue,Max Pax Mismatch,Set Up Issue > Max Pax Mismatch,parent,410
+sheet1_r411_parent,Invalid Item Quantity - A matching option cannot be found,Set Up Issue > Missing Pax Type,Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,parent,411
+sheet1_r411_baby,Adult,Set Up Issue > Missing Pax Type,Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,baby,411
+sheet1_r411_combined,Invalid Item Quantity - A matching option cannot be found || Adult,Set Up Issue > Missing Pax Type,Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,combined,411
+sheet1_r412_parent,No ticket category,Set Up Issue > Missing Pax Type,Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,parent,412
+sheet1_r412_baby,No ticket category for 'Adults (Halbtax | Swiss Half Fare Card)',Set Up Issue > Missing Pax Type,Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,baby,412
+sheet1_r412_combined,No ticket category || No ticket category for 'Adults (Halbtax | Swiss Half Fare Card)',Set Up Issue > Missing Pax Type,Set Up Issue,Missing Pax Type,Set Up Issue > Missing Pax Type,combined,412
+sheet1_r413_parent,INVALID_THIRDPARTY_RESERVATION,Set Up Issue > Product ID Invalid,Set Up Issue,Product ID Invalid,Set Up Issue > Product ID Invalid,parent,413
+sheet1_r413_baby,product configuration issue,Set Up Issue > Product ID Invalid,Set Up Issue,Product ID Invalid,Set Up Issue > Product ID Invalid,baby,413
+sheet1_r413_combined,INVALID_THIRDPARTY_RESERVATION || product configuration issue,Set Up Issue > Product ID Invalid,Set Up Issue,Product ID Invalid,Set Up Issue > Product ID Invalid,combined,413
+sheet1_r414_parent,Invalid format for data input that is required for this callback,Set Up Issue > Wrong Pax Types are added,Set Up Issue,Wrong Pax Types are added,Set Up Issue > Wrong Pax Types are added,parent,414
+sheet1_r414_baby,Passenger numbers are required to make an availability inventory check,Set Up Issue > Wrong Pax Types are added,Set Up Issue,Wrong Pax Types are added,Set Up Issue > Wrong Pax Types are added,baby,414
+sheet1_r414_combined,Invalid format for data input that is required for this callback || Passenger numbers are required to make an availability inventory check,Set Up Issue > Wrong Pax Types are added,Set Up Issue,Wrong Pax Types are added,Set Up Issue > Wrong Pax Types are added,combined,414
+sheet1_r415_parent,firstName is not filled in for guest,Set Up Issue > Mandatory Logic Issue,Set Up Issue,Mandatory Logic Issue,Set Up Issue > Mandatory Logic Issue,parent,415
+sheet1_r415_baby,Guest firstName is not filled in for guest,Set Up Issue > Mandatory Logic Issue,Set Up Issue,Mandatory Logic Issue,Set Up Issue > Mandatory Logic Issue,baby,415
+sheet1_r415_combined,firstName is not filled in for guest || Guest firstName is not filled in for guest,Set Up Issue > Mandatory Logic Issue,Set Up Issue,Mandatory Logic Issue,Set Up Issue > Mandatory Logic Issue,combined,415
+sheet1_r416_parent,INVALID_THIRDPARTY_BOOKING,Customer Issue > Inaccurate info,Customer Issue,Inaccurate info,Customer Issue > Inaccurate info,parent,416
+sheet1_r416_baby,must be a valid email,Customer Issue > Inaccurate info,Customer Issue,Inaccurate info,Customer Issue > Inaccurate info,baby,416
+sheet1_r416_combined,INVALID_THIRDPARTY_BOOKING || must be a valid email,Customer Issue > Inaccurate info,Customer Issue,Inaccurate info,Customer Issue > Inaccurate info,combined,416
+sheet1_r417_parent,email address is at an invalid or incorrectly registered,Customer Issue > Inaccurate info,Customer Issue,Inaccurate info,Customer Issue > Inaccurate info,parent,417
+sheet1_r418_parent,B0001,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,parent,418
+sheet1_r418_baby,The phone number format,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,baby,418
+sheet1_r418_combined,B0001 || The phone number format,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,combined,418
+sheet1_r419_parent,B0001,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,parent,419
+sheet1_r419_baby,This traveler's ID number has been duplicated. Please check it and resubmit,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,baby,419
+sheet1_r419_combined,B0001 || This traveler's ID number has been duplicated. Please check it and resubmit,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,combined,419
+sheet1_r420_parent,contains a cc num,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,parent,420
+sheet1_r421_parent,error.checkout.invalid.character,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,parent,421
+sheet1_r422_parent,error.checkout.invalid.date.format,Customer Issue > Invalid Format,Customer Issue,Invalid Format,Customer Issue > Invalid Format,parent,422
+sheet1_r423_parent,Contact must not exceed 15 characters,Customer Issue > Book Manually,Customer Issue,Book Manually,Customer Issue > Book Manually,parent,423
+sheet1_r424_parent,First Name is limited to 30 characters,Customer Issue > Book Manually,Customer Issue,Book Manually,Customer Issue > Book Manually,parent,424
+sheet1_r425_parent,First name cannot exceed,Customer Issue > Book Manually,Customer Issue,Book Manually,Customer Issue > Book Manually,parent,425
+sheet1_r426_parent,Data too long for column,Customer Issue > Char Limit,Customer Issue,Char Limit,Customer Issue > Char Limit,parent,426
+sheet1_r427_parent,Invalid characters in Invalid characters,Customer Issue > Char Limit,Customer Issue,Char Limit,Customer Issue > Char Limit,parent,427
+sheet1_r428_parent,error.question.answer.option.invalid,Customer Issue > Missing Dropdown Values,Customer Issue,Missing Dropdown Values,Customer Issue > Missing Dropdown Values,parent,428
+sheet1_r429_parent,V0001,Tech Issue > Config Issue,Tech Issue,Config Issue,Tech Issue > Config Issue,parent,429
+sheet1_r429_baby,success,Tech Issue > Config Issue,Tech Issue,Config Issue,Tech Issue > Config Issue,baby,429
+sheet1_r429_combined,V0001 || success,Tech Issue > Config Issue,Tech Issue,Config Issue,Tech Issue > Config Issue,combined,429
+sheet1_r430_parent,incorrect for the product inventory packageList,Tech Issue > LIC,Tech Issue,LIC,Tech Issue > LIC,parent,430
+sheet1_r431_parent,An invalid or duplicate order,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,parent,431
+sheet1_r432_parent,Could not download tickets for bookingId,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,parent,432
+sheet1_r433_parent,INVALID_THIRDPARTY_BOOKING,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,parent,433
+sheet1_r433_baby,Kindly note that there is already,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,baby,433
+sheet1_r433_combined,INVALID_THIRDPARTY_BOOKING || Kindly note that there is already,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,combined,433
+sheet1_r434_parent,Order already confirmed,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,parent,434
+sheet1_r435_parent,The partner reference has already been taken,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,parent,435
+sheet1_r436_parent,Transaction is already in status,Booking Incomplete > Tickets not sent,Booking Incomplete,Tickets not sent,Booking Incomplete > Tickets not sent,parent,436
+sheet1_r437_parent,200,Booking Incomplete > Failed to fetch tickets,Booking Incomplete,Failed to fetch tickets,Booking Incomplete > Failed to fetch tickets,parent,437
+sheet1_r437_baby,AGT,Booking Incomplete > Failed to fetch tickets,Booking Incomplete,Failed to fetch tickets,Booking Incomplete > Failed to fetch tickets,baby,437
+sheet1_r437_combined,200 || AGT,Booking Incomplete > Failed to fetch tickets,Booking Incomplete,Failed to fetch tickets,Booking Incomplete > Failed to fetch tickets,combined,437
+sheet1_r438_parent,200,Booking Incomplete > Unknown,Booking Incomplete,Unknown,Booking Incomplete > Unknown,parent,438
+sheet1_r439_parent,NOCOUNT_ERROR,Booking Incomplete > Failed to send tickets,Booking Incomplete,Failed to send tickets,Booking Incomplete > Failed to send tickets,parent,439
+sheet1_r440_parent,greater than threshold price,Booking Failed > Stale Inventory,Booking Failed,Stale Inventory,Booking Failed > Stale Inventory,parent,440
+sheet1_r441_parent,more than price threshold,Booking Failed > Stale Inventory,Booking Failed,Stale Inventory,Booking Failed > Stale Inventory,parent,441
+sheet1_r442_parent,订单支付请求太过,Booking Failed > Pending pax Confirmation,Booking Failed,Pending pax Confirmation,Booking Failed > Pending pax Confirmation,parent,442
+sheet1_r443_parent,The incoming token has expired,Booking Failed > Tickets not sent,Booking Failed,Tickets not sent,Booking Failed > Tickets not sent,parent,443
+sheet1_r443_baby,printConfirmation,Booking Failed > Tickets not sent,Booking Failed,Tickets not sent,Booking Failed > Tickets not sent,baby,443
+sheet1_r443_combined,The incoming token has expired || printConfirmation,Booking Failed > Tickets not sent,Booking Failed,Tickets not sent,Booking Failed > Tickets not sent,combined,443
+sheet1_r445_parent,Auth is unsuccessful,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,parent,445
+sheet1_r445_baby,canceled due to com.headout.vendor.api.exceptions,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,baby,445
+sheet1_r445_combined,Auth is unsuccessful || canceled due to com.headout.vendor.api.exceptions,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,combined,445
+sheet1_r446_parent,Authentication failed,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,parent,446
+sheet1_r446_baby,canceled due to com.headout.vendor.api.exceptions,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,baby,446
+sheet1_r446_combined,Authentication failed || canceled due to com.headout.vendor.api.exceptions,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,combined,446
+sheet1_r447_parent,UNKNOWN,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,parent,447
+sheet1_r447_baby,Unauthorized,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,baby,447
+sheet1_r447_combined,UNKNOWN || Unauthorized,Credentials > Not updated on AWS,Credentials,Not updated on AWS,Credentials > Not updated on AWS,combined,447
+sheet1_r449_parent,S0000,Product Code > Codes to be updated,Product Code,Codes to be updated,Product Code > Codes to be updated,parent,449
+sheet1_r449_baby,Unable to get the product price,Product Code > Codes to be updated,Product Code,Codes to be updated,Product Code > Codes to be updated,baby,449
+sheet1_r449_combined,S0000 || Unable to get the product price,Product Code > Codes to be updated,Product Code,Codes to be updated,Product Code > Codes to be updated,combined,449
+sheet1_r450_parent,S0000,Product Code > Unknown,Product Code,Unknown,Product Code > Unknown,parent,450
+sheet1_r452_parent,INVALID_THIRDPARTY_BOOKING,Payment Issue > General,Payment Issue,General,Payment Issue > General,parent,452
+sheet1_r452_baby,insufficient credit at the supplier's end,Payment Issue > General,Payment Issue,General,Payment Issue > General,baby,452
+sheet1_r452_combined,INVALID_THIRDPARTY_BOOKING || insufficient credit at the supplier's end,Payment Issue > General,Payment Issue,General,Payment Issue > General,combined,452

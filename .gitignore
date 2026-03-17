@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+models/archive/*
+models/latest/*
+models/bert/*
+!models/archive/.gitkeep
+!models/latest/.gitkeep
