@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a production-ready text classification system built using DistilBERT. It takes raw text input (e.g., customer issues) and predicts the most relevant category along with a confidence score.
+This project is a text classification system built using DistilBERT. It takes raw text input (e.g., customer issues) and predicts the most relevant category along with a confidence score.
 
 The system is designed to:
 
