@@ -11,9 +11,9 @@ The system is designed to:
 * Log low-confidence predictions for human review
 * Continuously improve via feedback loop and retraining
 
-![API Docs](images/Screenshot%202026-03-17%20at%206.45.05%20PM.png)
+![API Docs](images/screenshot-docs.png)
 
-![API Example](images/Screenshot%202026-03-17%20at%206.45.29%20PM.png)
+![API Example](images/screenshot-api.png)
 
 ---
 
