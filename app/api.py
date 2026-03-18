@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+import os
+
+import pandas as pd
 from fastapi import FastAPI
 
 from app.bert_predict import predict
@@ -12,6 +15,16 @@ from app.schemas import (
 
 config = get_config()
 app = FastAPI(title=config.app_title, version="0.1.0")
+
+
+def log_unlabeled(text: str, confidence: float) -> None:
+    file_path = "data/feedback/unlabeled.csv"
+    row = pd.DataFrame([{"text": text, "confidence": confidence}])
+    if os.path.exists(file_path):
+        row.to_csv(file_path, mode="a", header=False, index=False)
+    else:
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        row.to_csv(file_path, index=False)
 
 
 @app.get("/")
@@ -43,7 +56,11 @@ def metadata() -> MetadataResponse:
 
 @app.post("/predict")
 def predict_api(req: dict):
-    return predict(req["text"])
+    result = predict(req["text"])
+    if result["confidence"] < 0.5:
+        log_unlabeled(req["text"], result["confidence"])
+        result["label"] = "uncertain"
+    return result
 
 
 @app.post("/reload")

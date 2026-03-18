@@ -2,13 +2,18 @@
 
 ## Overview
 
-This project is a production-ready text classification system built using BERT. It takes raw text input (e.g., customer issues) and predicts the most relevant category along with a confidence score.
+This project is a production-ready text classification system built using DistilBERT. It takes raw text input (e.g., customer issues) and predicts the most relevant category along with a confidence score.
 
 The system is designed to:
 
 * Train on labeled text data
 * Serve predictions via API
-* Continuously improve with new data
+* Log low-confidence predictions for human review
+* Continuously improve via feedback loop and retraining
+
+![API Docs](images/Screenshot%202026-03-17%20at%206.45.05%20PM.png)
+
+![API Example](images/Screenshot%202026-03-17%20at%206.45.29%20PM.png)
 
 ---
 
@@ -52,70 +57,57 @@ We clean and prepare the dataset before training:
 
 We use:
 
-* `bert-base-uncased`
+* `distilbert-base-uncased`
 
-Why BERT?
+Why DistilBERT?
 
+* Faster and lighter than BERT
 * Understands context (not just keywords)
-* Handles real-world language variations
+* Often better on small datasets
 * Performs significantly better than TF-IDF models
 
 ---
 
 ### 3. Tokenization
 
-Text is converted into numerical format using BERT tokenizer:
+Text is converted into numerical format using the DistilBERT tokenizer:
 
 * Max sequence length: 256
 * Truncation enabled
-* Padding applied
-
-Why?
-
-* Allows model to capture more context from longer inputs
+* Dynamic padding (per batch)
 
 ---
 
-### 4. Handling Class Imbalance
+### 4. Model Training
 
-We apply class weighting during training:
+We fine-tune DistilBERT using:
 
-* Rare classes are given higher importance
-* Frequent classes are slightly penalized
-
-This is done using:
-
-* `compute_class_weight` from sklearn
-* Custom loss function in Trainer
-
----
-
-### 5. Model Training
-
-We fine-tune BERT using:
-
-* Epochs: 5
+* Epochs: 7
 * Learning rate: 2e-5
+* Warmup ratio: 0.1
 * Train/Validation split: 90/10
 
-Training is handled via HuggingFace `Trainer`.
+Training is handled via HuggingFace `Trainer` with accuracy and F1 evaluation.
 
 ---
 
-### 6. Output Predictions
+### 5. Output Predictions
 
 For each input text, the model returns:
 
 * Predicted label
 * Confidence score (probability)
-* Optional: top-3 predictions
+* All class probabilities
+
+When confidence is below 0.5, the label is returned as `"uncertain"` and the text is logged to `data/feedback/unlabeled.csv` for human review.
 
 Example:
 
 ```
 {
   "label": "Inventory Issue > Current Slot Unavailable",
-  "confidence": 0.78
+  "confidence": 0.78,
+  "all_probs": [...]
 }
 ```
 
@@ -164,7 +156,7 @@ models/bert/latest
 1. Start API:
 
 ```
-uvicorn app.api:app --reload
+python3 -m uvicorn app.api:app --reload
 ```
 
 2. Open docs:
@@ -174,6 +166,50 @@ http://127.0.0.1:8000/docs
 ```
 
 3. Test `/predict`
+
+---
+
+## Feedback Loop and Retraining
+
+The system supports continuous improvement via human feedback:
+
+### 1. Low-confidence logging
+
+Predictions with confidence < 0.5 are logged to `data/feedback/unlabeled.csv` and returned as `"uncertain"`.
+
+### 2. Human labeling
+
+Review `data/feedback/unlabeled.csv` and add correct labels to `data/feedback/labeled.csv`:
+
+```csv
+text,label
+"payment failed again","Payment Issue"
+"slot unavailable","Inventory Issue"
+```
+
+### 3. Merge and retrain
+
+Run the retrain script to merge new labels into training data and retrain the model:
+
+```bash
+bash scripts/retrain.sh
+```
+
+This runs `scripts/merge_feedback.py` (merges `labeled.csv` into `train.csv`) followed by `python3 -m training.train_bert`.
+
+### 4. Optional: scheduled retraining
+
+To retrain daily at 2 AM (Mac/Linux):
+
+```bash
+crontab -e
+```
+
+Add:
+
+```
+0 2 * * * /path/to/project/scripts/retrain.sh
+```
 
 ---
 
@@ -189,20 +225,13 @@ http://127.0.0.1:8000/docs
 
 ## Key Improvements Made
 
-* Removed noisy labels
+* Removed noisy labels (Orphan, rare classes)
 * Reduced class imbalance
 * Increased text context (max_length = 256)
-* Added class-weighted loss
-* Upgraded model from TF-IDF → BERT
-
----
-
-## Future Improvements
-
-* Continuous learning from new labeled data
-* Active learning for uncertain predictions
-* Deployment with Docker
-* Monitoring and feedback loop
+* Upgraded to DistilBERT (faster, often better on small data)
+* Text normalization and rule-based overrides
+* Low-confidence logging for human review
+* Feedback loop: label → merge → retrain
 
 ---
 
@@ -211,8 +240,10 @@ http://127.0.0.1:8000/docs
 We transformed a basic text classification system into a production-ready ML pipeline by:
 
 * Cleaning and structuring data
-* Using a powerful language model (BERT)
-* Handling class imbalance properly
+* Using DistilBERT for context-aware predictions
+* Handling class imbalance and noisy labels
 * Serving predictions via API
+* Logging uncertain predictions for human review
+* Supporting continuous improvement via feedback and retraining
 
 This setup is scalable, extensible, and ready for real-world use.
