@@ -245,5 +245,3 @@ We transformed a basic text classification system into a production-ready ML pip
 * Serving predictions via API
 * Logging uncertain predictions for human review
 * Supporting continuous improvement via feedback and retraining
-
-This setup is scalable, extensible, and ready for real-world use.
