@@ -223,18 +223,6 @@ Add:
 
 ---
 
-## Key Improvements Made
-
-* Removed noisy labels (Orphan, rare classes)
-* Reduced class imbalance
-* Increased text context (max_length = 256)
-* Upgraded to DistilBERT (faster, often better on small data)
-* Text normalization and rule-based overrides
-* Low-confidence logging for human review
-* Feedback loop: label → merge → retrain
-
----
-
 ## Summary
 
 We transformed a basic text classification system into a production-ready ML pipeline by:
